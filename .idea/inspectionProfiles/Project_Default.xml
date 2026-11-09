@@ -1,0 +1,74 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="cuda-cudart" />
+          <option value="ffmpeg" />
+          <option value="freetype" />
+          <option value="gmpy2" />
+          <option value="jinja2" />
+          <option value="joblib" />
+          <option value="lcms2" />
+          <option value="lerc" />
+          <option value="libopus" />
+          <option value="libpng" />
+          <option value="libtiff" />
+          <option value="libvpx" />
+          <option value="libwebp-base" />
+          <option value="llvm-openmp" />
+          <option value="lz4-c" />
+          <option value="markupsafe" />
+          <option value="mkl" />
+          <option value="mkl_fft" />
+          <option value="mkl_random" />
+          <option value="mpc" />
+          <option value="mpfr" />
+          <option value="ncurses" />
+          <option value="nettle" />
+          <option value="networkx" />
+          <option value="openh264" />
+          <option value="openjpeg" />
+          <option value="openssl" />
+          <option value="packaging" />
+          <option value="pillow" />
+          <option value="pip" />
+          <option value="platformdirs" />
+          <option value="pooch" />
+          <option value="pysocks" />
+          <option value="pyyaml" />
+          <option value="readline" />
+          <option value="requests" />
+          <option value="scikit-learn" />
+          <option value="setuptools" />
+          <option value="sqlite" />
+          <option value="tbb" />
+          <option value="tbb-devel" />
+          <option value="tk" />
+          <option value="wheel" />
+          <option value="x264" />
+          <option value="xz" />
+          <option value="yaml" />
+          <option value="zstd" />
+          <option value="fonttools" />
+          <option value="fsspec" />
+          <option value="importlib-metadata" />
+          <option value="pyparsing" />
+          <option value="python-dateutil" />
+          <option value="pytz" />
+          <option value="triton" />
+          <option value="tzdata" />
+          <option value="zipp" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pandas" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
