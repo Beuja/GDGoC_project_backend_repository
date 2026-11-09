@@ -1,0 +1,57 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Tests / coverage
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Type checkers / linters
+.mypy_cache/
+.ruff_cache/
+.pyright/
+
+# Local databases
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Uploaded files (local)
+uploads/
+
+# IDE
+.idea/
+.vscode/
+
+# JetBrains HTTP Client private environment
+http-client.private.env.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
