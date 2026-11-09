@@ -61,8 +61,6 @@ migrations/            # Alembic
 - 마이그레이션 파일을 생성했다면 사용자에게 알린다. 기존 마이그레이션 파일은 수정하지 않는다.
 - `.env`, 비밀값, 토큰을 커밋하거나 출력하지 않는다. 새 환경변수는 `.env.example`에 추가한다.
 - 커밋 메시지는 아래 컨벤션을 따른다.
-- 팀 공용 Claude Code 권한은 `.claude/settings.json`에 있다 (main push 시 확인, 강제 push·`.env` 읽기 금지). 개인 설정은 `.claude/settings.local.json`에 둔다.
-
 ## Git 컨벤션
 
 - 브랜치: `feat/<도메인>-<내용>`, `fix/...`, `chore/...`, `refactor/...`, `docs/...`
