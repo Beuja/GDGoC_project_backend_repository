@@ -55,3 +55,6 @@ http-client.private.env.json
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Claude Code 개인 설정 (공유 설정은 .claude/settings.json)
+.claude/settings.local.json
