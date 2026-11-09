@@ -1,0 +1,13 @@
+# 저장소에는 항상 LF로 저장한다 (Windows/macOS 줄바꿈 차이로 인한 diff 방지)
+* text=auto eol=lf
+
+*.bat  text eol=crlf
+*.cmd  text eol=crlf
+*.ps1  text eol=crlf
+
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.pdf  binary
