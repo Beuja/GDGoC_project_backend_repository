@@ -58,3 +58,6 @@ desktop.ini
 
 # Claude Code 개인 설정 (공유 설정은 .claude/settings.json)
 .claude/settings.local.json
+
+# prototype 타입 대조 결과 (check_contract.py로 다시 만들 수 있음)
+prototype/check_report.md

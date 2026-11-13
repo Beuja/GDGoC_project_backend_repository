@@ -1,0 +1,11 @@
+{
+ "imageUrl": "/static/map/campus.png",
+ "width": 3000,
+ "height": 5333,
+ "defaultCenter": {
+  "x": 1100,
+  "y": 2600
+ },
+ "minZoom": -3,
+ "maxZoom": 1
+}
