@@ -1,0 +1,1333 @@
+[
+ {
+  "id": 1,
+  "name": "과학관",
+  "sourceName": "과학관",
+  "slug": "science",
+  "aliases": [],
+  "position": {
+   "x": 1275.0,
+   "y": 3071.0
+  },
+  "imageBounds": {
+   "x": 1102,
+   "y": 2973,
+   "width": 346,
+   "height": 196
+  },
+  "thumbnailUrl": "/static/building/science.png",
+  "photoUrl": "/static/infophoto/science.png",
+  "phone": "02-2260-8713(이과대 학사운영실)",
+  "operatingHours": "연중무휴",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "1층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": 1,
+    "label": "1F",
+    "floorImageUrl": "/static/floor/science_1.png",
+    "imageBounds": {
+     "x": 1102,
+     "y": 2973,
+     "width": 336,
+     "height": 190
+    }
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "name": "다향관",
+  "sourceName": "다향관",
+  "slug": "dahyang",
+  "aliases": [],
+  "position": {
+   "x": 1469.5,
+   "y": 2464.0
+  },
+  "imageBounds": {
+   "x": 1337,
+   "y": 2379,
+   "width": 265,
+   "height": 170
+  },
+  "thumbnailUrl": "/static/building/dahyang.png",
+  "photoUrl": "/static/infophoto/dahyang.png",
+  "phone": "02-2260-8964(다향관 매점)",
+  "operatingHours": "08:00 - 18:30 / 주말 휴무",
+  "facilities": [
+   {
+    "type": "SHOWER",
+    "name": "샤워실(남자)",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "STORE",
+    "name": "매점",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "ETC",
+    "name": "문구점",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "ETC",
+    "name": "사진관",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "ETC",
+    "name": "서점",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "LOUNGE",
+    "name": "야외 휴게실",
+    "floorDescription": "1층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": 1,
+    "label": "1F",
+    "floorImageUrl": "/static/floor/dahyang_1.png",
+    "imageBounds": {
+     "x": 1337,
+     "y": 2379,
+     "width": 252,
+     "height": 159
+    }
+   },
+   {
+    "floor": 2,
+    "label": "2F",
+    "floorImageUrl": "/static/floor/dahyang_2.png",
+    "imageBounds": {
+     "x": 1337,
+     "y": 2379,
+     "width": 252,
+     "height": 159
+    }
+   },
+   {
+    "floor": 3,
+    "label": "3F",
+    "floorImageUrl": "/static/floor/dahyang_3.png",
+    "imageBounds": {
+     "x": 1337,
+     "y": 2379,
+     "width": 252,
+     "height": 159
+    }
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "name": "대운동장",
+  "sourceName": "대운동장",
+  "slug": "stadium",
+  "aliases": [],
+  "position": {
+   "x": 1575.0,
+   "y": 3437.0
+  },
+  "imageBounds": {
+   "x": 1308,
+   "y": 3206,
+   "width": 534,
+   "height": 462
+  },
+  "thumbnailUrl": "/static/building/stadium.png",
+  "photoUrl": "/static/infophoto/stadium.png",
+  "phone": "",
+  "operatingHours": "연중무휴",
+  "facilities": [
+   {
+    "type": "ETC",
+    "name": "시설 정보 없음",
+    "floorDescription": ""
+   }
+  ],
+  "floors": []
+ },
+ {
+  "id": 4,
+  "name": "만해광장",
+  "sourceName": "만해광장",
+  "slug": "manhae_plaza",
+  "aliases": [],
+  "position": {
+   "x": 1121.5,
+   "y": 2074.5
+  },
+  "imageBounds": {
+   "x": 972,
+   "y": 1880,
+   "width": 299,
+   "height": 389
+  },
+  "thumbnailUrl": "/static/building/manhae_plaza.png",
+  "photoUrl": "/static/infophoto/manhae_plaza.png",
+  "phone": "",
+  "operatingHours": "연중무휴",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "단상 옆"
+   },
+   {
+    "type": "ETC",
+    "name": "운동장",
+    "floorDescription": ""
+   },
+   {
+    "type": "ETC",
+    "name": "동우탑",
+    "floorDescription": ""
+   }
+  ],
+  "floors": []
+ },
+ {
+  "id": 5,
+  "name": "명진관",
+  "sourceName": "명진관",
+  "slug": "myungjin",
+  "aliases": [],
+  "position": {
+   "x": 1314.5,
+   "y": 2924.5
+  },
+  "imageBounds": {
+   "x": 1129,
+   "y": 2805,
+   "width": 371,
+   "height": 239
+  },
+  "thumbnailUrl": "/static/building/myungjin.png",
+  "photoUrl": "/static/infophoto/myungjin.png",
+  "phone": "02-2260-3756~7(문과대학 학사운영실)",
+  "operatingHours": "09:00 - 17:00",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "LOUNGE",
+    "name": "라운지",
+    "floorDescription": "1층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": 1,
+    "label": "1F",
+    "floorImageUrl": "/static/floor/myungjin_1.png",
+    "imageBounds": {
+     "x": 1129,
+     "y": 2805,
+     "width": 356,
+     "height": 224
+    }
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "name": "문화관",
+  "sourceName": "문화관",
+  "slug": "culture",
+  "aliases": [],
+  "position": {
+   "x": 2421.0,
+   "y": 2837.0
+  },
+  "imageBounds": {
+   "x": 2297,
+   "y": 2582,
+   "width": 248,
+   "height": 510
+  },
+  "thumbnailUrl": "/static/building/culture.png",
+  "photoUrl": "/static/infophoto/culture.png",
+  "phone": "02-2260-8752(예술대학 학사운영실)",
+  "operatingHours": "연중무휴",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "1층, 3층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "STORE",
+    "name": "매점(쿱스켓)",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "ETC",
+    "name": "식당(가든쿡)",
+    "floorDescription": "B1층"
+   },
+   {
+    "type": "CAFE",
+    "name": "카페(두리터)",
+    "floorDescription": "B1층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": -1,
+    "label": "B1",
+    "floorImageUrl": "/static/floor/culture_b1.png",
+    "imageBounds": {
+     "x": 2297,
+     "y": 2582,
+     "width": 254,
+     "height": 510
+    }
+   },
+   {
+    "floor": 1,
+    "label": "1F",
+    "floorImageUrl": "/static/floor/culture_1.png",
+    "imageBounds": {
+     "x": 2297,
+     "y": 2582,
+     "width": 248,
+     "height": 510
+    }
+   },
+   {
+    "floor": 3,
+    "label": "3F",
+    "floorImageUrl": "/static/floor/culture_3.png",
+    "imageBounds": {
+     "x": 2297,
+     "y": 2582,
+     "width": 248,
+     "height": 510
+    }
+   },
+   {
+    "floor": 4,
+    "label": "4F",
+    "floorImageUrl": "/static/floor/culture_4.png",
+    "imageBounds": {
+     "x": 2297,
+     "y": 2582,
+     "width": 248,
+     "height": 510
+    }
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "name": "법학관·만해관",
+  "sourceName": "법학관_만해관",
+  "slug": "law_manhae",
+  "aliases": [
+   "법학관",
+   "만해관"
+  ],
+  "position": {
+   "x": 1678.5,
+   "y": 2816.5
+  },
+  "imageBounds": {
+   "x": 1528,
+   "y": 2563,
+   "width": 301,
+   "height": 507
+  },
+  "thumbnailUrl": "/static/building/law_manhae.png",
+  "photoUrl": "/static/infophoto/law_manhae.png",
+  "phone": "02-2260-3098(불교대학 학사운영실)",
+  "operatingHours": "연중무휴",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "1층, 2층"
+   },
+   {
+    "type": "SHOWER",
+    "name": "샤워실(남자)",
+    "floorDescription": "3층"
+   },
+   {
+    "type": "STORE",
+    "name": "매점(쿱스켓)",
+    "floorDescription": "2층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "1층, 2층"
+   },
+   {
+    "type": "LOUNGE",
+    "name": "라운지",
+    "floorDescription": "3층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": 1,
+    "label": "1F",
+    "floorImageUrl": "/static/floor/law_manhae_1.png",
+    "imageBounds": {
+     "x": 1528,
+     "y": 2563,
+     "width": 303,
+     "height": 506
+    }
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "name": "본관",
+  "sourceName": "본관",
+  "slug": "main_hall",
+  "aliases": [],
+  "position": {
+   "x": 1145.5,
+   "y": 2539.0
+  },
+  "imageBounds": {
+   "x": 1017,
+   "y": 2394,
+   "width": 257,
+   "height": 290
+  },
+  "thumbnailUrl": "/static/building/main_hall.png",
+  "photoUrl": "/static/infophoto/main_hall.png",
+  "phone": "02-2260-3098(불교대학 학사운영실)",
+  "operatingHours": "연중무휴",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "야외"
+   },
+   {
+    "type": "ETC",
+    "name": "기념품점(가온누리)",
+    "floorDescription": "1층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": 1,
+    "label": "1F",
+    "floorImageUrl": "/static/floor/main_hall_1.png",
+    "imageBounds": {
+     "x": 1017,
+     "y": 2394,
+     "width": 251,
+     "height": 324
+    }
+   },
+   {
+    "floor": 2,
+    "label": "2F",
+    "floorImageUrl": "/static/floor/main_hall_2.png",
+    "imageBounds": {
+     "x": 1017,
+     "y": 2394,
+     "width": 251,
+     "height": 324
+    }
+   },
+   {
+    "floor": 3,
+    "label": "3F",
+    "floorImageUrl": "/static/floor/main_hall_3.png",
+    "imageBounds": {
+     "x": 1017,
+     "y": 2394,
+     "width": 251,
+     "height": 324
+    }
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "name": "사회과학관·경영관",
+  "sourceName": "사회과학관_경영관",
+  "slug": "social_business",
+  "aliases": [
+   "사회과학관",
+   "경영관",
+   "사과관"
+  ],
+  "position": {
+   "x": 2313.0,
+   "y": 3106.0
+  },
+  "imageBounds": {
+   "x": 2145,
+   "y": 2775,
+   "width": 336,
+   "height": 662
+  },
+  "thumbnailUrl": "/static/building/social_business.png",
+  "photoUrl": "/static/infophoto/social_business.png",
+  "phone": "02-2260-3502(경영대 학사운영실)",
+  "operatingHours": "연중무휴",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "1층, 2층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "2층, 3층"
+   },
+   {
+    "type": "ATM",
+    "name": "ATM(신한)",
+    "floorDescription": "2층"
+   },
+   {
+    "type": "CAFE",
+    "name": "카페(그루터기)",
+    "floorDescription": "야외"
+   },
+   {
+    "type": "LOUNGE",
+    "name": "라운지(비즈마루)",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "LOUNGE",
+    "name": "라운지(MBA)",
+    "floorDescription": "2층"
+   },
+   {
+    "type": "LOUNGE",
+    "name": "열람실(CPA반)",
+    "floorDescription": "5층"
+   },
+   {
+    "type": "ETC",
+    "name": "하늘마루",
+    "floorDescription": "6층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": 2,
+    "label": "2F",
+    "floorImageUrl": "/static/floor/social_business_2.png",
+    "imageBounds": {
+     "x": 2145,
+     "y": 2775,
+     "width": 297,
+     "height": 566
+    }
+   },
+   {
+    "floor": 3,
+    "label": "3F",
+    "floorImageUrl": "/static/floor/social_business_3.png",
+    "imageBounds": {
+     "x": 2145,
+     "y": 2775,
+     "width": 297,
+     "height": 566
+    }
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "name": "상록원",
+  "sourceName": "상록원",
+  "slug": "sangnok",
+  "aliases": [
+   "학식",
+   "식당"
+  ],
+  "position": {
+   "x": 1178.5,
+   "y": 3209.0
+  },
+  "imageBounds": {
+   "x": 1067,
+   "y": 3118,
+   "width": 223,
+   "height": 182
+  },
+  "thumbnailUrl": "/static/building/sangnok.png",
+  "photoUrl": "/static/infophoto/sangnok.png",
+  "phone": "02-2260-8977",
+  "operatingHours": "연중무휴",
+  "facilities": [
+   {
+    "type": "STORE",
+    "name": "매점(쿱스켓)",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "ATM",
+    "name": "ATM(국민)",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "ETC",
+    "name": "식당(솔앤누들)",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "ETC",
+    "name": "버거킹",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "ETC",
+    "name": "식당(학생식당)",
+    "floorDescription": "2층"
+   },
+   {
+    "type": "ETC",
+    "name": "식당(교직원식당)",
+    "floorDescription": "3층"
+   }
+  ],
+  "floors": []
+ },
+ {
+  "id": 11,
+  "name": "신공학관",
+  "sourceName": "신공학관",
+  "slug": "shingong",
+  "aliases": [
+   "신공"
+  ],
+  "position": {
+   "x": 703.0,
+   "y": 2696.0
+  },
+  "imageBounds": {
+   "x": 482,
+   "y": 2525,
+   "width": 442,
+   "height": 342
+  },
+  "thumbnailUrl": "/static/building/shingong.png",
+  "photoUrl": "/static/infophoto/shingong.png",
+  "phone": "02-2260-3861(공과대학 학사운영실)",
+  "operatingHours": "연중무휴",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "3층, 4층"
+   },
+   {
+    "type": "SHOWER",
+    "name": "샤워실(남자)",
+    "floorDescription": "5층"
+   },
+   {
+    "type": "SHOWER",
+    "name": "샤워실(여자)",
+    "floorDescription": "7층"
+   },
+   {
+    "type": "STORE",
+    "name": "매점(CU)",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "3층, 9층"
+   },
+   {
+    "type": "ATM",
+    "name": "ATM(신한)",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "ETC",
+    "name": "식당(아워홈)",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "ETC",
+    "name": "식당(탐나는 식탁)",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "ETC",
+    "name": "식당(아임카츠)",
+    "floorDescription": "1층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": 1,
+    "label": "1F",
+    "floorImageUrl": "/static/floor/shingong_1.png",
+    "imageBounds": {
+     "x": 482,
+     "y": 2525,
+     "width": 436,
+     "height": 333
+    }
+   },
+   {
+    "floor": 3,
+    "label": "3F",
+    "floorImageUrl": "/static/floor/shingong_3.png",
+    "imageBounds": {
+     "x": 482,
+     "y": 2525,
+     "width": 436,
+     "height": 333
+    }
+   },
+   {
+    "floor": 4,
+    "label": "4F",
+    "floorImageUrl": "/static/floor/shingong_4.png",
+    "imageBounds": {
+     "x": 482,
+     "y": 2525,
+     "width": 436,
+     "height": 333
+    }
+   },
+   {
+    "floor": 7,
+    "label": "7F",
+    "floorImageUrl": "/static/floor/shingong_7.png",
+    "imageBounds": {
+     "x": 482,
+     "y": 2525,
+     "width": 436,
+     "height": 333
+    }
+   },
+   {
+    "floor": 9,
+    "label": "9F",
+    "floorImageUrl": "/static/floor/shingong_9.png",
+    "imageBounds": {
+     "x": 482,
+     "y": 2525,
+     "width": 436,
+     "height": 333
+    }
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "name": "원흥관",
+  "sourceName": "원흥관",
+  "slug": "wonheung",
+  "aliases": [],
+  "position": {
+   "x": 866.5,
+   "y": 2340.0
+  },
+  "imageBounds": {
+   "x": 694,
+   "y": 2084,
+   "width": 345,
+   "height": 512
+  },
+  "thumbnailUrl": "/static/building/wonheung.png",
+  "photoUrl": "/static/infophoto/wonheung.png",
+  "phone": "02-2260-3861(공과대학 학사운영실)",
+  "operatingHours": "연중무휴",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "1층 ~ 2층 계단, 3층, 4층 입구 앞"
+   },
+   {
+    "type": "SHOWER",
+    "name": "샤워실(남자)",
+    "floorDescription": "3층"
+   },
+   {
+    "type": "SHOWER",
+    "name": "샤워실(여자)",
+    "floorDescription": "3층"
+   },
+   {
+    "type": "STORE",
+    "name": "매점(쿱스켓)",
+    "floorDescription": "3층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "3층"
+   },
+   {
+    "type": "LOUNGE",
+    "name": "라운지(i-space)",
+    "floorDescription": "3층"
+   },
+   {
+    "type": "ATM",
+    "name": "ATM(신한)",
+    "floorDescription": "4층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": 1,
+    "label": "1F",
+    "floorImageUrl": "/static/floor/wonheung_1.png",
+    "imageBounds": {
+     "x": 694,
+     "y": 2084,
+     "width": 348,
+     "height": 516
+    }
+   },
+   {
+    "floor": 2,
+    "label": "2F",
+    "floorImageUrl": "/static/floor/wonheung_2.png",
+    "imageBounds": {
+     "x": 694,
+     "y": 2084,
+     "width": 348,
+     "height": 516
+    }
+   },
+   {
+    "floor": 3,
+    "label": "3F",
+    "floorImageUrl": "/static/floor/wonheung_3.png",
+    "imageBounds": {
+     "x": 694,
+     "y": 2084,
+     "width": 383,
+     "height": 511
+    }
+   },
+   {
+    "floor": 4,
+    "label": "4F",
+    "floorImageUrl": "/static/floor/wonheung_4.png",
+    "imageBounds": {
+     "x": 694,
+     "y": 2084,
+     "width": 345,
+     "height": 511
+    }
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "name": "정각원",
+  "sourceName": "정각원",
+  "slug": "jeonggak",
+  "aliases": [],
+  "position": {
+   "x": 1742.5,
+   "y": 3022.0
+  },
+  "imageBounds": {
+   "x": 1673,
+   "y": 2941,
+   "width": 139,
+   "height": 162
+  },
+  "thumbnailUrl": "/static/building/jeonggak.png",
+  "photoUrl": "/static/infophoto/jeonggak.png",
+  "phone": "",
+  "operatingHours": "09:00 - 18:00",
+  "facilities": [
+   {
+    "type": "ETC",
+    "name": "시설 정보 없음",
+    "floorDescription": ""
+   }
+  ],
+  "floors": []
+ },
+ {
+  "id": 14,
+  "name": "정보문화관 P",
+  "sourceName": "정보문화관p",
+  "slug": "jeongbo_p",
+  "aliases": [
+   "정보문화관",
+   "정문관",
+   "P동"
+  ],
+  "position": {
+   "x": 834.0,
+   "y": 2055.5
+  },
+  "imageBounds": {
+   "x": 769,
+   "y": 1920,
+   "width": 130,
+   "height": 271
+  },
+  "thumbnailUrl": "/static/building/jeongbo_p.png",
+  "photoUrl": "/static/infophoto/jeongbo_p.png",
+  "phone": "",
+  "operatingHours": "09:00 - 18:00",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "3층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "3층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": 2,
+    "label": "2F",
+    "floorImageUrl": "/static/floor/jeongbo_p_2.png",
+    "imageBounds": {
+     "x": 769,
+     "y": 1920,
+     "width": 121,
+     "height": 262
+    }
+   },
+   {
+    "floor": 3,
+    "label": "3F",
+    "floorImageUrl": "/static/floor/jeongbo_p_3.png",
+    "imageBounds": {
+     "x": 769,
+     "y": 1920,
+     "width": 121,
+     "height": 262
+    }
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "name": "정보문화관 Q",
+  "sourceName": "정보문화관q",
+  "slug": "jeongbo_q",
+  "aliases": [
+   "정보문화관",
+   "Q동"
+  ],
+  "position": {
+   "x": 731.0,
+   "y": 1979.0
+  },
+  "imageBounds": {
+   "x": 634,
+   "y": 1866,
+   "width": 194,
+   "height": 226
+  },
+  "thumbnailUrl": "/static/building/jeongbo_q.png",
+  "photoUrl": "/static/infophoto/jeongbo_q.png",
+  "phone": "",
+  "operatingHours": "09:00 - 18:00",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "3층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": 3,
+    "label": "3F",
+    "floorImageUrl": "/static/floor/jeongbo_q_3.png",
+    "imageBounds": {
+     "x": 634,
+     "y": 1866,
+     "width": 149,
+     "height": 215
+    }
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "name": "중앙도서관",
+  "sourceName": "중앙도서관",
+  "slug": "library",
+  "aliases": [
+   "중도",
+   "도서관"
+  ],
+  "position": {
+   "x": 1022.5,
+   "y": 2819.0
+  },
+  "imageBounds": {
+   "x": 897,
+   "y": 2663,
+   "width": 251,
+   "height": 312
+  },
+  "thumbnailUrl": "/static/building/library.png",
+  "photoUrl": "/static/infophoto/library.png",
+  "phone": "02-2260-8622~3 / 02-2260-3459~60",
+  "operatingHours": "09:00 - 21:00",
+  "facilities": [
+   {
+    "type": "STORE",
+    "name": "매점(쿱스켓)",
+    "floorDescription": "4층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "3층"
+   },
+   {
+    "type": "LOUNGE",
+    "name": "라운지(IF존)",
+    "floorDescription": "2층"
+   }
+  ],
+  "floors": []
+ },
+ {
+  "id": 17,
+  "name": "체육관",
+  "sourceName": "체육관",
+  "slug": "gym",
+  "aliases": [],
+  "position": {
+   "x": 1424.0,
+   "y": 1961.0
+  },
+  "imageBounds": {
+   "x": 1321,
+   "y": 1843,
+   "width": 206,
+   "height": 236
+  },
+  "thumbnailUrl": "/static/building/gym.png",
+  "photoUrl": "/static/infophoto/gym.png",
+  "phone": "02-2260-3481(사범대학 체육교육과)",
+  "operatingHours": "09:00 - 18:00",
+  "facilities": [
+   {
+    "type": "ETC",
+    "name": "시설 정보 없음",
+    "floorDescription": ""
+   }
+  ],
+  "floors": []
+ },
+ {
+  "id": 18,
+  "name": "학림관",
+  "sourceName": "학림관",
+  "slug": "hakrim",
+  "aliases": [],
+  "position": {
+   "x": 1275.0,
+   "y": 1744.0
+  },
+  "imageBounds": {
+   "x": 1078,
+   "y": 1636,
+   "width": 394,
+   "height": 216
+  },
+  "thumbnailUrl": "/static/building/hakrim.png",
+  "photoUrl": "/static/infophoto/hakrim.png",
+  "phone": "02_2260-3108~10(사범대학 학사운영실)",
+  "operatingHours": "09:00 - 18:00",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "2층, 4층"
+   },
+   {
+    "type": "STORE",
+    "name": "매점(쿱스켓)",
+    "floorDescription": "B1층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "B1층, 1층, 2층"
+   },
+   {
+    "type": "LOUNGE",
+    "name": "라운지",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "ATM",
+    "name": "ATM(신한)",
+    "floorDescription": "1층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": -1,
+    "label": "B1",
+    "floorImageUrl": "/static/floor/hakrim_b1.png",
+    "imageBounds": {
+     "x": 1078,
+     "y": 1636,
+     "width": 394,
+     "height": 206
+    }
+   },
+   {
+    "floor": 1,
+    "label": "1F",
+    "floorImageUrl": "/static/floor/hakrim_1.png",
+    "imageBounds": {
+     "x": 1078,
+     "y": 1636,
+     "width": 394,
+     "height": 206
+    }
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "name": "학생회관",
+  "sourceName": "학생회관",
+  "slug": "student_union",
+  "aliases": [
+   "학관"
+  ],
+  "position": {
+   "x": 767.0,
+   "y": 1849.0
+  },
+  "imageBounds": {
+   "x": 670,
+   "y": 1773,
+   "width": 194,
+   "height": 152
+  },
+  "thumbnailUrl": "/static/building/student_union.png",
+  "photoUrl": "/static/infophoto/student_union.png",
+  "phone": "",
+  "operatingHours": "09:00 - 18:00",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "SHOWER",
+    "name": "샤워실(남자)",
+    "floorDescription": "2층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "LOUNGE",
+    "name": "라운지(i-space)",
+    "floorDescription": "1층"
+   }
+  ],
+  "floors": []
+ },
+ {
+  "id": 20,
+  "name": "학술관",
+  "sourceName": "학술관",
+  "slug": "haksul",
+  "aliases": [],
+  "position": {
+   "x": 2600.5,
+   "y": 2738.0
+  },
+  "imageBounds": {
+   "x": 2527,
+   "y": 2567,
+   "width": 147,
+   "height": 342
+  },
+  "thumbnailUrl": "/static/building/haksul.png",
+  "photoUrl": "/static/infophoto/haksul.png",
+  "phone": "02-2260-3632~4(미래융합대학 학사운영실)",
+  "operatingHours": "09:00 - 18:00",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "3층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "CAFE",
+    "name": "카페(카페두리터)",
+    "floorDescription": "B1층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": -1,
+    "label": "B1",
+    "floorImageUrl": "/static/floor/haksul_b1.png",
+    "imageBounds": {
+     "x": 2527,
+     "y": 2567,
+     "width": 121,
+     "height": 325
+    }
+   },
+   {
+    "floor": 1,
+    "label": "1F",
+    "floorImageUrl": "/static/floor/haksul_1.png",
+    "imageBounds": {
+     "x": 2527,
+     "y": 2567,
+     "width": 121,
+     "height": 325
+    }
+   },
+   {
+    "floor": 4,
+    "label": "4F",
+    "floorImageUrl": "/static/floor/haksul_4.png",
+    "imageBounds": {
+     "x": 2527,
+     "y": 2567,
+     "width": 121,
+     "height": 325
+    }
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "name": "혜화관",
+  "sourceName": "혜화관",
+  "slug": "hyehwa",
+  "aliases": [],
+  "position": {
+   "x": 1957.0,
+   "y": 2914.0
+  },
+  "imageBounds": {
+   "x": 1804,
+   "y": 2694,
+   "width": 306,
+   "height": 440
+  },
+  "thumbnailUrl": "/static/building/hyehwa.png",
+  "photoUrl": "/static/infophoto/hyehwa.png",
+  "phone": "02-2260-8719(경찰사법대학 학사운영실)",
+  "operatingHours": "09:00 - 18:00",
+  "facilities": [
+   {
+    "type": "VENDING",
+    "name": "자판기",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "SHOWER",
+    "name": "샤워실(여자)",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "STORE",
+    "name": "매점(쿱스켓)",
+    "floorDescription": "4층"
+   },
+   {
+    "type": "PRINTER",
+    "name": "프린터",
+    "floorDescription": "1층"
+   },
+   {
+    "type": "LOUNGE",
+    "name": "라운지",
+    "floorDescription": "2층"
+   },
+   {
+    "type": "ATM",
+    "name": "ATM(국민)",
+    "floorDescription": "4층"
+   }
+  ],
+  "floors": [
+   {
+    "floor": 1,
+    "label": "1F",
+    "floorImageUrl": "/static/floor/hyehwa_1.png",
+    "imageBounds": {
+     "x": 1804,
+     "y": 2694,
+     "width": 294,
+     "height": 437
+    }
+   },
+   {
+    "floor": 4,
+    "label": "4F",
+    "floorImageUrl": "/static/floor/hyehwa_4.png",
+    "imageBounds": {
+     "x": 1804,
+     "y": 2694,
+     "width": 294,
+     "height": 437
+    }
+   }
+  ]
+ }
+]

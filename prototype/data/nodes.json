@@ -1,0 +1,7512 @@
+[
+ {
+  "id": 1,
+  "sourceName": "108계단 아래",
+  "x": 760.0,
+  "y": 2536.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 2,
+  "sourceName": "108계단 위",
+  "x": 975.0,
+  "y": 2592.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 3,
+  "sourceName": "108계단 중간1",
+  "x": 863.0,
+  "y": 2571.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 4,
+  "sourceName": "108계단 중간2",
+  "x": 947.0,
+  "y": 2600.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 5,
+  "sourceName": "DUICA쪽 입구",
+  "x": 1625.0,
+  "y": 1936.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 6,
+  "sourceName": "가든쿡 갈림길",
+  "x": 2519.0,
+  "y": 2803.0,
+  "floor": -1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 7,
+  "sourceName": "가든쿡 문화관 입구",
+  "x": 2483.0,
+  "y": 2783.0,
+  "floor": -1,
+  "buildingId": 6,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 8,
+  "sourceName": "가든쿡 문화관 입구 안",
+  "x": 2451.0,
+  "y": 2774.0,
+  "floor": -1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 9,
+  "sourceName": "가든쿡 입구",
+  "x": 2529.0,
+  "y": 2741.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 10,
+  "sourceName": "가든쿡 입구 앞",
+  "x": 2539.0,
+  "y": 2684.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 11,
+  "sourceName": "가든쿡 학술관 입구",
+  "x": 2551.0,
+  "y": 2804.0,
+  "floor": -1,
+  "buildingId": 6,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 12,
+  "sourceName": "가든쿡 학술관 입구 안",
+  "x": 2589.0,
+  "y": 2803.0,
+  "floor": -1,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 13,
+  "sourceName": "경영관 2층",
+  "x": 2361.0,
+  "y": 3204.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 14,
+  "sourceName": "경영관 2층 계단",
+  "x": 2382.0,
+  "y": 3180.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 15,
+  "sourceName": "경영관 2층 뒷문",
+  "x": 2409.0,
+  "y": 3137.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 16,
+  "sourceName": "경영관 2층 뒷문 안",
+  "x": 2383.0,
+  "y": 3130.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 17,
+  "sourceName": "경영관 2층 입구",
+  "x": 2329.0,
+  "y": 3163.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 18,
+  "sourceName": "경영관 2층 입구 안",
+  "x": 2369.0,
+  "y": 3176.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 19,
+  "sourceName": "경영관 2층 쪽문",
+  "x": 2254.0,
+  "y": 3293.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 20,
+  "sourceName": "경영관 2층 쪽문 계단",
+  "x": 2246.0,
+  "y": 3300.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 21,
+  "sourceName": "경영관 2층 쪽문 안",
+  "x": 2338.0,
+  "y": 3274.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 22,
+  "sourceName": "경영관 2층 쪽문 앞",
+  "x": 2243.0,
+  "y": 3296.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 23,
+  "sourceName": "경영관 3층",
+  "x": 2361.0,
+  "y": 3204.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 24,
+  "sourceName": "경영관 3층 계단",
+  "x": 2382.0,
+  "y": 3180.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 25,
+  "sourceName": "경영관 3층 계단 앞",
+  "x": 2369.0,
+  "y": 3176.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 26,
+  "sourceName": "경영관 3층 계단 옆",
+  "x": 2383.0,
+  "y": 3130.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 27,
+  "sourceName": "경영관 3층 쪽문",
+  "x": 2253.0,
+  "y": 3294.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 28,
+  "sourceName": "경영관 3층 쪽문 계단",
+  "x": 2246.0,
+  "y": 3300.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 29,
+  "sourceName": "경영관 3층 쪽문 안",
+  "x": 2338.0,
+  "y": 3274.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 30,
+  "sourceName": "경영관 계단 아래",
+  "x": 2218.0,
+  "y": 3145.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 31,
+  "sourceName": "경영관 계단 위",
+  "x": 2148.0,
+  "y": 3124.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 32,
+  "sourceName": "경영관 뒷문 가는길1",
+  "x": 2438.0,
+  "y": 3100.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 33,
+  "sourceName": "경영관 뒷문 가는길2",
+  "x": 2478.0,
+  "y": 3129.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 34,
+  "sourceName": "경영관 뒷문 가는길3",
+  "x": 2495.0,
+  "y": 3150.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 35,
+  "sourceName": "경영관 뒷문 가는길4",
+  "x": 2468.0,
+  "y": 3149.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 36,
+  "sourceName": "경영관 뒷문 가는길5",
+  "x": 2437.0,
+  "y": 3146.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 37,
+  "sourceName": "경영관 뒷문 가는길6",
+  "x": 2432.0,
+  "y": 3145.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 38,
+  "sourceName": "경영관 뒷문 가는길7",
+  "x": 2420.0,
+  "y": 3140.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 39,
+  "sourceName": "경영관 문화관 구름다리 앞",
+  "x": 2338.0,
+  "y": 3115.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 40,
+  "sourceName": "경영관 문화관 구름다리 입구",
+  "x": 2350.0,
+  "y": 3078.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 41,
+  "sourceName": "경영관 차도1",
+  "x": 2107.0,
+  "y": 3262.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 42,
+  "sourceName": "경영관 차도2",
+  "x": 2189.0,
+  "y": 3275.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 43,
+  "sourceName": "경영관 차도3",
+  "x": 2235.0,
+  "y": 3255.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 44,
+  "sourceName": "경영관 차도4",
+  "x": 2281.0,
+  "y": 3166.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 45,
+  "sourceName": "계산관A 계단 아래",
+  "x": 1044.0,
+  "y": 1740.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 46,
+  "sourceName": "계산관A 계단 위",
+  "x": 1037.0,
+  "y": 1762.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 47,
+  "sourceName": "계산관A 입구",
+  "x": 1058.0,
+  "y": 1693.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 48,
+  "sourceName": "계산관A 학림관 갈림길",
+  "x": 1053.0,
+  "y": 1709.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 49,
+  "sourceName": "계산관B 입구",
+  "x": 1071.0,
+  "y": 1810.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 50,
+  "sourceName": "계산관B 입구 앞",
+  "x": 1105.0,
+  "y": 1782.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 51,
+  "sourceName": "계산관B 입구 앞2",
+  "x": 1097.0,
+  "y": 1815.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 52,
+  "sourceName": "과학관",
+  "x": 1250.0,
+  "y": 3070.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 53,
+  "sourceName": "과학관 우측 입구",
+  "x": 1421.0,
+  "y": 3117.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 54,
+  "sourceName": "과학관 우측 입구 앞",
+  "x": 1444.0,
+  "y": 3124.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 55,
+  "sourceName": "과학관 정문",
+  "x": 1304.0,
+  "y": 3044.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 56,
+  "sourceName": "과학관 정문 안",
+  "x": 1295.0,
+  "y": 3076.0,
+  "floor": 1,
+  "buildingId": 1,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 57,
+  "sourceName": "과학관 정문 앞",
+  "x": 1305.0,
+  "y": 3031.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 58,
+  "sourceName": "과학관 좌측 입구",
+  "x": 1162.0,
+  "y": 3034.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 59,
+  "sourceName": "과학관 좌측 입구 앞",
+  "x": 1153.0,
+  "y": 3031.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 60,
+  "sourceName": "과학관 차도 입구",
+  "x": 1544.0,
+  "y": 2893.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 61,
+  "sourceName": "과학관 차도 입구 앞",
+  "x": 1514.0,
+  "y": 2913.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 62,
+  "sourceName": "남산학사 계단 아래",
+  "x": 598.0,
+  "y": 2595.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 63,
+  "sourceName": "남산학사 계단 앞",
+  "x": 586.0,
+  "y": 2568.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 64,
+  "sourceName": "남산학사 계단 위",
+  "x": 593.0,
+  "y": 2576.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 65,
+  "sourceName": "남산학사 식당 앞",
+  "x": 657.0,
+  "y": 2636.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 66,
+  "sourceName": "남산학사 식당 앞2",
+  "x": 614.0,
+  "y": 2622.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 67,
+  "sourceName": "남산학사 식당 입구",
+  "x": 618.0,
+  "y": 2676.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 68,
+  "sourceName": "남산학사 입구",
+  "x": 681.0,
+  "y": 2624.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 69,
+  "sourceName": "남산학사 입구 앞",
+  "x": 675.0,
+  "y": 2641.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 70,
+  "sourceName": "남산학사 카페 입구",
+  "x": 655.0,
+  "y": 2712.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 71,
+  "sourceName": "남산학사 편의점 앞",
+  "x": 694.0,
+  "y": 2648.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 72,
+  "sourceName": "남산학사 편의점 입구",
+  "x": 671.0,
+  "y": 2716.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 73,
+  "sourceName": "다향관",
+  "x": 1456.0,
+  "y": 2468.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 74,
+  "sourceName": "다향관 1층 길1",
+  "x": 1383.0,
+  "y": 2392.0,
+  "floor": 1,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 75,
+  "sourceName": "다향관 1층 길2",
+  "x": 1436.0,
+  "y": 2408.0,
+  "floor": 1,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 76,
+  "sourceName": "다향관 1층 길3",
+  "x": 1432.0,
+  "y": 2424.0,
+  "floor": 1,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 77,
+  "sourceName": "다향관 1층 길4",
+  "x": 1470.0,
+  "y": 2437.0,
+  "floor": 1,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 78,
+  "sourceName": "다향관 1층 길5",
+  "x": 1467.0,
+  "y": 2457.0,
+  "floor": 1,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 79,
+  "sourceName": "다향관 1층 길6",
+  "x": 1550.0,
+  "y": 2483.0,
+  "floor": 1,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 80,
+  "sourceName": "다향관 1층 길7",
+  "x": 1548.0,
+  "y": 2491.0,
+  "floor": 1,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 81,
+  "sourceName": "다향관 1층 길8",
+  "x": 1556.0,
+  "y": 2494.0,
+  "floor": 1,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 82,
+  "sourceName": "다향관 1층 오른쪽 계단",
+  "x": 1566.0,
+  "y": 2523.0,
+  "floor": 1,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 83,
+  "sourceName": "다향관 1층 오른쪽 계단 앞",
+  "x": 1549.0,
+  "y": 2517.0,
+  "floor": 1,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 84,
+  "sourceName": "다향관 1층 왼쪽 계단",
+  "x": 1360.0,
+  "y": 2420.0,
+  "floor": 1,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 85,
+  "sourceName": "다향관 1층 왼쪽 계단 입구",
+  "x": 1363.0,
+  "y": 2412.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 86,
+  "sourceName": "다향관 1층 입구 안",
+  "x": 1372.0,
+  "y": 2423.0,
+  "floor": 1,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 87,
+  "sourceName": "다향관 1층 입구 앞",
+  "x": 1321.0,
+  "y": 2354.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 88,
+  "sourceName": "다향관 1층 입구 앞2",
+  "x": 1357.0,
+  "y": 2364.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 89,
+  "sourceName": "다향관 1층 입구 앞3",
+  "x": 1370.0,
+  "y": 2378.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 90,
+  "sourceName": "다향관 2층 세미나실 오른쪽",
+  "x": 1548.0,
+  "y": 2509.0,
+  "floor": 2,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 91,
+  "sourceName": "다향관 2층 세미나실 왼쪽",
+  "x": 1545.0,
+  "y": 2517.0,
+  "floor": 2,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 92,
+  "sourceName": "다향관 2층 오른쪽 계단",
+  "x": 1568.0,
+  "y": 2514.0,
+  "floor": 2,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 93,
+  "sourceName": "다향관 2층 왼쪽 계단",
+  "x": 1360.0,
+  "y": 2420.0,
+  "floor": 2,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 94,
+  "sourceName": "다향관 2층 왼쪽 계단 입구",
+  "x": 1363.0,
+  "y": 2412.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 95,
+  "sourceName": "다향관 2층 왼쪽 계단 입구 앞",
+  "x": 1364.0,
+  "y": 2408.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 96,
+  "sourceName": "다향관 2층 입구 앞",
+  "x": 1324.0,
+  "y": 2396.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 97,
+  "sourceName": "다향관 3층 오른쪽 계단",
+  "x": 1561.0,
+  "y": 2522.0,
+  "floor": 2,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 98,
+  "sourceName": "다향관 3층 오른쪽 계단 앞",
+  "x": 1576.0,
+  "y": 2526.0,
+  "floor": 3,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 99,
+  "sourceName": "다향관 3층 오른쪽 입구",
+  "x": 1572.0,
+  "y": 2534.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 100,
+  "sourceName": "다향관 3층 오른쪽 입구 앞",
+  "x": 1567.0,
+  "y": 2550.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 101,
+  "sourceName": "다향관 3층 왼쪽 계단",
+  "x": 1360.0,
+  "y": 2420.0,
+  "floor": 3,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 102,
+  "sourceName": "다향관 3층 왼쪽 계단 입구",
+  "x": 1353.0,
+  "y": 2446.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 103,
+  "sourceName": "다향관 3층 왼쪽 계단 입구 안",
+  "x": 1358.0,
+  "y": 2435.0,
+  "floor": 3,
+  "buildingId": 2,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 104,
+  "sourceName": "다향관 3층 왼쪽 계단 입구 앞",
+  "x": 1339.0,
+  "y": 2478.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 105,
+  "sourceName": "대운동장",
+  "x": 1571.0,
+  "y": 3414.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 106,
+  "sourceName": "대운동장 상록원 계단 갈림길",
+  "x": 1423.0,
+  "y": 3193.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 107,
+  "sourceName": "대운동장 상록원 계단 아래",
+  "x": 1475.0,
+  "y": 3212.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 108,
+  "sourceName": "대운동장 상록원 계단 위",
+  "x": 1287.0,
+  "y": 3143.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 109,
+  "sourceName": "대운동장 입구",
+  "x": 1501.0,
+  "y": 3237.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 110,
+  "sourceName": "대운동장 입구 앞",
+  "x": 1509.0,
+  "y": 3208.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 111,
+  "sourceName": "동대입구",
+  "x": 2587.0,
+  "y": 2426.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 112,
+  "sourceName": "동대입구 문화관 중간",
+  "x": 2463.0,
+  "y": 2607.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 113,
+  "sourceName": "동대입구 문화관1",
+  "x": 2517.0,
+  "y": 2537.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 114,
+  "sourceName": "동대입구 문화관2",
+  "x": 2425.0,
+  "y": 2658.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 115,
+  "sourceName": "동대입구 문화관3",
+  "x": 2298.0,
+  "y": 3052.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 116,
+  "sourceName": "동대입구 방향 입구",
+  "x": 2587.0,
+  "y": 2426.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": true
+ },
+ {
+  "id": 117,
+  "sourceName": "동대입구 앞",
+  "x": 2567.0,
+  "y": 2468.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 118,
+  "sourceName": "동대입구 혜화관1",
+  "x": 2527.0,
+  "y": 2445.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 119,
+  "sourceName": "동대입구 혜화관2",
+  "x": 2290.0,
+  "y": 2648.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 120,
+  "sourceName": "듀이카 가는길1",
+  "x": 1322.0,
+  "y": 1843.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 121,
+  "sourceName": "듀이카 가는길2",
+  "x": 1344.0,
+  "y": 1841.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 122,
+  "sourceName": "듀이카 가는길3",
+  "x": 1386.0,
+  "y": 1839.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 123,
+  "sourceName": "듀이카 가는길4",
+  "x": 1455.0,
+  "y": 1851.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 124,
+  "sourceName": "듀이카 앞 계단 위",
+  "x": 1517.0,
+  "y": 1873.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 125,
+  "sourceName": "듀이카 앞 계단 중간1",
+  "x": 1541.0,
+  "y": 1886.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 126,
+  "sourceName": "듀이카 앞 계단 중간2",
+  "x": 1541.0,
+  "y": 1905.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 127,
+  "sourceName": "듀이카 앞 계단 중간3",
+  "x": 1582.0,
+  "y": 1920.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 128,
+  "sourceName": "듀이카 옆 입구",
+  "x": 1550.0,
+  "y": 1892.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 129,
+  "sourceName": "듀이카 쪽문",
+  "x": 1583.0,
+  "y": 1914.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 130,
+  "sourceName": "듀이카쪽 학교 입구",
+  "x": 1625.0,
+  "y": 1936.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 131,
+  "sourceName": "만해관 2층 입구",
+  "x": 1701.0,
+  "y": 2874.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 132,
+  "sourceName": "만해관 2층 입구 안",
+  "x": 1671.0,
+  "y": 2866.0,
+  "floor": 1,
+  "buildingId": 7,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 133,
+  "sourceName": "만해관 2층 입구 앞",
+  "x": 1715.0,
+  "y": 2879.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 134,
+  "sourceName": "만해관 내려가는 길1",
+  "x": 1528.0,
+  "y": 3038.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 135,
+  "sourceName": "만해관 내려가는 길2",
+  "x": 1519.0,
+  "y": 3117.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 136,
+  "sourceName": "만해관 내려가는 길3",
+  "x": 1556.0,
+  "y": 3200.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 137,
+  "sourceName": "만해관 옆 계단 아래",
+  "x": 1557.0,
+  "y": 3089.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 138,
+  "sourceName": "만해관 옆입구",
+  "x": 1609.0,
+  "y": 3052.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 139,
+  "sourceName": "만해관 옆입구 앞",
+  "x": 1605.0,
+  "y": 3063.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 140,
+  "sourceName": "만해관 우측 하단",
+  "x": 1654.0,
+  "y": 3079.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 141,
+  "sourceName": "만해관 입구",
+  "x": 1624.0,
+  "y": 2860.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 142,
+  "sourceName": "만해관 입구 안",
+  "x": 1626.0,
+  "y": 2852.0,
+  "floor": 1,
+  "buildingId": 7,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 143,
+  "sourceName": "만해관 정각원 갈림길",
+  "x": 1660.0,
+  "y": 3059.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 144,
+  "sourceName": "만해광장",
+  "x": 1122.0,
+  "y": 2043.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 145,
+  "sourceName": "만해광장 계단 아래",
+  "x": 913.0,
+  "y": 2027.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 146,
+  "sourceName": "만해광장 계단 위",
+  "x": 999.0,
+  "y": 2038.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 147,
+  "sourceName": "만해광장 입구",
+  "x": 1138.0,
+  "y": 2264.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 148,
+  "sourceName": "만해광장 중앙",
+  "x": 1101.0,
+  "y": 2051.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 149,
+  "sourceName": "명진관",
+  "x": 1323.0,
+  "y": 2901.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 150,
+  "sourceName": "명진관 과학관 우측 하단",
+  "x": 1458.0,
+  "y": 3079.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 151,
+  "sourceName": "명진관 과학관 좌측 하단",
+  "x": 1167.0,
+  "y": 2988.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 152,
+  "sourceName": "명진관 과학관 중앙",
+  "x": 1304.0,
+  "y": 2974.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 153,
+  "sourceName": "명진관 과학관 중앙 오른쪽",
+  "x": 1398.0,
+  "y": 3005.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 154,
+  "sourceName": "명진관 과학관 중앙 왼쪽",
+  "x": 1195.0,
+  "y": 2937.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 155,
+  "sourceName": "명진관 과학관 중앙 왼쪽 끝",
+  "x": 1180.0,
+  "y": 2934.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 156,
+  "sourceName": "명진관 오른쪽",
+  "x": 1451.0,
+  "y": 2940.0,
+  "floor": 1,
+  "buildingId": 5,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 157,
+  "sourceName": "명진관 오른쪽 계단 아래",
+  "x": 1522.0,
+  "y": 2847.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 158,
+  "sourceName": "명진관 오른쪽 계단 위",
+  "x": 1451.0,
+  "y": 2894.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 159,
+  "sourceName": "명진관 오른쪽 아래",
+  "x": 1454.0,
+  "y": 3044.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 160,
+  "sourceName": "명진관 오른쪽 위",
+  "x": 1495.0,
+  "y": 2920.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 161,
+  "sourceName": "명진관 오른쪽 후문",
+  "x": 1425.0,
+  "y": 2990.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 162,
+  "sourceName": "명진관 오른쪽 후문 안",
+  "x": 1434.0,
+  "y": 2992.0,
+  "floor": 1,
+  "buildingId": 5,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 163,
+  "sourceName": "명진관 오른쪽 후문 앞",
+  "x": 1405.0,
+  "y": 2984.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 164,
+  "sourceName": "명진관 오른쪽길",
+  "x": 1393.0,
+  "y": 3024.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 165,
+  "sourceName": "명진관 왼쪽",
+  "x": 1191.0,
+  "y": 2854.0,
+  "floor": 1,
+  "buildingId": 5,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 166,
+  "sourceName": "명진관 왼쪽 계단 위",
+  "x": 1223.0,
+  "y": 2812.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 167,
+  "sourceName": "명진관 왼쪽 후문",
+  "x": 1182.0,
+  "y": 2910.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 168,
+  "sourceName": "명진관 왼쪽 후문 안",
+  "x": 1174.0,
+  "y": 2907.0,
+  "floor": 1,
+  "buildingId": 5,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 169,
+  "sourceName": "명진관 왼쪽 후문 앞",
+  "x": 1202.0,
+  "y": 2916.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 170,
+  "sourceName": "명진관 왼쪽길",
+  "x": 1176.0,
+  "y": 2942.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 171,
+  "sourceName": "명진관 우측 입구",
+  "x": 1469.0,
+  "y": 2963.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 172,
+  "sourceName": "명진관 우측 입구 안",
+  "x": 1447.0,
+  "y": 2955.0,
+  "floor": 1,
+  "buildingId": 5,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 173,
+  "sourceName": "명진관 우측 입구 앞",
+  "x": 1478.0,
+  "y": 2965.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 174,
+  "sourceName": "명진관 정문",
+  "x": 1327.0,
+  "y": 2874.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 175,
+  "sourceName": "명진관 정문 안",
+  "x": 1321.0,
+  "y": 2896.0,
+  "floor": 1,
+  "buildingId": 5,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 176,
+  "sourceName": "명진관 정문 안 오른쪽",
+  "x": 1335.0,
+  "y": 2901.0,
+  "floor": 1,
+  "buildingId": 5,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 177,
+  "sourceName": "명진관 정문 안 왼쪽",
+  "x": 1307.0,
+  "y": 2892.0,
+  "floor": 1,
+  "buildingId": 5,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 178,
+  "sourceName": "명진관 정문 앞",
+  "x": 1334.0,
+  "y": 2853.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 179,
+  "sourceName": "명진관 좌측 상단",
+  "x": 1167.0,
+  "y": 2815.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 180,
+  "sourceName": "명진관 좌측 입구",
+  "x": 1153.0,
+  "y": 2876.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 181,
+  "sourceName": "명진관 좌측 입구 안",
+  "x": 1181.0,
+  "y": 2886.0,
+  "floor": 1,
+  "buildingId": 5,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 182,
+  "sourceName": "명진관 좌측 입구 앞",
+  "x": 1147.0,
+  "y": 2874.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 183,
+  "sourceName": "명진관 좌측 하단",
+  "x": 1130.0,
+  "y": 2925.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 184,
+  "sourceName": "명진관 중앙 계단 아래",
+  "x": 1351.0,
+  "y": 2792.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 185,
+  "sourceName": "명진관 후문",
+  "x": 1303.0,
+  "y": 2936.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 186,
+  "sourceName": "명진관 후문 안",
+  "x": 1305.0,
+  "y": 2932.0,
+  "floor": 1,
+  "buildingId": 5,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 187,
+  "sourceName": "명진관 후문 안 오른쪽",
+  "x": 1322.0,
+  "y": 2937.0,
+  "floor": 1,
+  "buildingId": 5,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 188,
+  "sourceName": "명진관 후문 안 왼쪽",
+  "x": 1293.0,
+  "y": 2927.0,
+  "floor": 1,
+  "buildingId": 5,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 189,
+  "sourceName": "문화관",
+  "x": 2422.0,
+  "y": 2841.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 190,
+  "sourceName": "문화관 1층",
+  "x": 2422.0,
+  "y": 2841.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 191,
+  "sourceName": "문화관 1층 계단",
+  "x": 2427.0,
+  "y": 2814.0,
+  "floor": 1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 192,
+  "sourceName": "문화관 1층 계단 앞",
+  "x": 2436.0,
+  "y": 2817.0,
+  "floor": 1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 193,
+  "sourceName": "문화관 1층 입구",
+  "x": 2392.0,
+  "y": 2784.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 194,
+  "sourceName": "문화관 1층 입구 안",
+  "x": 2442.0,
+  "y": 2800.0,
+  "floor": 1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 195,
+  "sourceName": "문화관 1층 입구 앞",
+  "x": 2385.0,
+  "y": 2782.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 196,
+  "sourceName": "문화관 1층 쪽문 계단",
+  "x": 2342.0,
+  "y": 3025.0,
+  "floor": 1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 197,
+  "sourceName": "문화관 3층",
+  "x": 2422.0,
+  "y": 2841.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 198,
+  "sourceName": "문화관 3층 계단",
+  "x": 2427.0,
+  "y": 2814.0,
+  "floor": 3,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 199,
+  "sourceName": "문화관 3층 계단 앞",
+  "x": 2436.0,
+  "y": 2817.0,
+  "floor": 3,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 200,
+  "sourceName": "문화관 3층 쪽문 계단",
+  "x": 2342.0,
+  "y": 3025.0,
+  "floor": 3,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 201,
+  "sourceName": "문화관 4층",
+  "x": 2422.0,
+  "y": 2841.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 202,
+  "sourceName": "문화관 4층 계단",
+  "x": 2427.0,
+  "y": 2814.0,
+  "floor": 4,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 203,
+  "sourceName": "문화관 4층 계단 앞",
+  "x": 2436.0,
+  "y": 2817.0,
+  "floor": 4,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 204,
+  "sourceName": "문화관 4층 쪽문 계단",
+  "x": 2342.0,
+  "y": 3025.0,
+  "floor": 4,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 205,
+  "sourceName": "문화관 4층 쪽문 계단 앞",
+  "x": 2366.0,
+  "y": 3032.0,
+  "floor": 4,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 206,
+  "sourceName": "문화관 B1 계단",
+  "x": 2427.0,
+  "y": 2814.0,
+  "floor": -1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 207,
+  "sourceName": "문화관 B1 계단 앞",
+  "x": 2436.0,
+  "y": 2817.0,
+  "floor": -1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 208,
+  "sourceName": "문화관 B1 쪽문 계단",
+  "x": 2342.0,
+  "y": 3025.0,
+  "floor": -1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 209,
+  "sourceName": "문화관 B1 쪽문 계단 앞",
+  "x": 2366.0,
+  "y": 3032.0,
+  "floor": -1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 210,
+  "sourceName": "문화관 B1층",
+  "x": 2422.0,
+  "y": 2841.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 211,
+  "sourceName": "문화관 경영관 구름다리 앞",
+  "x": 2366.0,
+  "y": 3032.0,
+  "floor": 3,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 212,
+  "sourceName": "문화관 경영관 구름다리 입구",
+  "x": 2354.0,
+  "y": 3065.0,
+  "floor": 3,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 213,
+  "sourceName": "문화관 사회과학관 계단 아래",
+  "x": 2404.0,
+  "y": 2724.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 214,
+  "sourceName": "문화관 사회과학관 계단 위",
+  "x": 2291.0,
+  "y": 2763.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 215,
+  "sourceName": "문화관 사회과학관 계단 중간1",
+  "x": 2326.0,
+  "y": 2757.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 216,
+  "sourceName": "문화관 사회과학관 계단 중간2",
+  "x": 2338.0,
+  "y": 2788.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 217,
+  "sourceName": "문화관 산책로 입구",
+  "x": 2417.0,
+  "y": 3094.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 218,
+  "sourceName": "문화관 쪽문",
+  "x": 2361.0,
+  "y": 3046.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 219,
+  "sourceName": "문화관 쪽문 안",
+  "x": 2366.0,
+  "y": 3032.0,
+  "floor": 1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 220,
+  "sourceName": "문화관 쪽문 앞",
+  "x": 2354.0,
+  "y": 3071.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 221,
+  "sourceName": "문화관 학술관 B1 경계",
+  "x": 2551.0,
+  "y": 2655.0,
+  "floor": -1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 222,
+  "sourceName": "문화관 학술관 구름다리 앞",
+  "x": 2463.0,
+  "y": 2738.0,
+  "floor": 4,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 223,
+  "sourceName": "문화관 학술관 구름다리 입구",
+  "x": 2503.0,
+  "y": 2751.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 224,
+  "sourceName": "문화관 후문",
+  "x": 2482.0,
+  "y": 2814.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 225,
+  "sourceName": "문화관 후문 앞",
+  "x": 2486.0,
+  "y": 2814.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 226,
+  "sourceName": "반야관 입구",
+  "x": 1495.0,
+  "y": 1832.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 227,
+  "sourceName": "반야관 입구 앞",
+  "x": 1480.0,
+  "y": 1859.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 228,
+  "sourceName": "반야관 편의점 가는길1",
+  "x": 1541.0,
+  "y": 1731.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 229,
+  "sourceName": "반야관 편의점 가는길2",
+  "x": 1600.0,
+  "y": 1775.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 230,
+  "sourceName": "반야관 편의점 입구",
+  "x": 1626.0,
+  "y": 1821.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 231,
+  "sourceName": "법학관 1층 만해관 앞",
+  "x": 1607.0,
+  "y": 2846.0,
+  "floor": 1,
+  "buildingId": 7,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 232,
+  "sourceName": "법학관 1층 입구",
+  "x": 1598.0,
+  "y": 2696.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 233,
+  "sourceName": "법학관 1층 입구 안",
+  "x": 1646.0,
+  "y": 2715.0,
+  "floor": 1,
+  "buildingId": 7,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 234,
+  "sourceName": "법학관 1층 입구 앞",
+  "x": 1571.0,
+  "y": 2685.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 235,
+  "sourceName": "법학관 뒷길1",
+  "x": 1870.0,
+  "y": 2764.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 236,
+  "sourceName": "법학관 뒷길2",
+  "x": 1827.0,
+  "y": 2823.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 237,
+  "sourceName": "법학관 뒷길3",
+  "x": 1775.0,
+  "y": 2848.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 238,
+  "sourceName": "법학관_만해관",
+  "x": 1672.0,
+  "y": 2801.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 239,
+  "sourceName": "본관",
+  "x": 1149.0,
+  "y": 2551.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 240,
+  "sourceName": "본관 1층",
+  "x": 1149.0,
+  "y": 2551.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 241,
+  "sourceName": "본관 1층 갈림길",
+  "x": 1157.0,
+  "y": 2443.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 242,
+  "sourceName": "본관 1층 엘베",
+  "x": 1114.0,
+  "y": 2429.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 243,
+  "sourceName": "본관 1층 엘베 앞",
+  "x": 1120.0,
+  "y": 2431.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 244,
+  "sourceName": "본관 1층 오른쪽",
+  "x": 1106.0,
+  "y": 2610.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 245,
+  "sourceName": "본관 1층 오른쪽 계단",
+  "x": 1056.0,
+  "y": 2604.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 246,
+  "sourceName": "본관 1층 오른쪽 계단 앞",
+  "x": 1058.0,
+  "y": 2596.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 247,
+  "sourceName": "본관 1층 왼쪽 계단",
+  "x": 1128.0,
+  "y": 2422.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 248,
+  "sourceName": "본관 1층 왼쪽 계단 앞",
+  "x": 1125.0,
+  "y": 2432.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 249,
+  "sourceName": "본관 1층 입구",
+  "x": 1113.0,
+  "y": 2409.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 250,
+  "sourceName": "본관 1층 입구 안",
+  "x": 1123.0,
+  "y": 2415.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 251,
+  "sourceName": "본관 1층 중앙 계단",
+  "x": 1197.0,
+  "y": 2472.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 252,
+  "sourceName": "본관 1층 중앙 계단 앞",
+  "x": 1182.0,
+  "y": 2468.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 253,
+  "sourceName": "본관 1층 중앙 계단 옆",
+  "x": 1186.0,
+  "y": 2451.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 254,
+  "sourceName": "본관 1층 쪽문",
+  "x": 1045.0,
+  "y": 2583.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 255,
+  "sourceName": "본관 1층 쪽문 안",
+  "x": 1044.0,
+  "y": 2592.0,
+  "floor": 1,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 256,
+  "sourceName": "본관 1층 쪽문 앞",
+  "x": 1047.0,
+  "y": 2578.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 257,
+  "sourceName": "본관 2층",
+  "x": 1149.0,
+  "y": 2551.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 258,
+  "sourceName": "본관 2층 갈림길",
+  "x": 1217.0,
+  "y": 2459.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 259,
+  "sourceName": "본관 2층 구석 계단",
+  "x": 1243.0,
+  "y": 2433.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 260,
+  "sourceName": "본관 2층 구석 계단 앞",
+  "x": 1240.0,
+  "y": 2441.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 261,
+  "sourceName": "본관 2층 구석 계단 옆",
+  "x": 1225.0,
+  "y": 2437.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 262,
+  "sourceName": "본관 2층 엘베",
+  "x": 1114.0,
+  "y": 2429.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 263,
+  "sourceName": "본관 2층 엘베 앞",
+  "x": 1126.0,
+  "y": 2432.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 264,
+  "sourceName": "본관 2층 오른쪽",
+  "x": 1074.0,
+  "y": 2600.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 265,
+  "sourceName": "본관 2층 오른쪽 계단",
+  "x": 1056.0,
+  "y": 2604.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 266,
+  "sourceName": "본관 2층 오른쪽 계단 앞",
+  "x": 1058.0,
+  "y": 2595.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 267,
+  "sourceName": "본관 2층 왼쪽 계단",
+  "x": 1128.0,
+  "y": 2422.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 268,
+  "sourceName": "본관 2층 중도 쪽문",
+  "x": 1158.0,
+  "y": 2702.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 269,
+  "sourceName": "본관 2층 중도 쪽문 안",
+  "x": 1164.0,
+  "y": 2703.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 270,
+  "sourceName": "본관 2층 중도 쪽문 통로",
+  "x": 1185.0,
+  "y": 2637.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 271,
+  "sourceName": "본관 2층 중도쪽",
+  "x": 1165.0,
+  "y": 2629.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 272,
+  "sourceName": "본관 2층 중앙 계단",
+  "x": 1197.0,
+  "y": 2472.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 273,
+  "sourceName": "본관 2층 중앙 계단 앞",
+  "x": 1212.0,
+  "y": 2475.0,
+  "floor": 2,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 274,
+  "sourceName": "본관 3층",
+  "x": 1149.0,
+  "y": 2551.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 275,
+  "sourceName": "본관 3층 구석 계단",
+  "x": 1235.0,
+  "y": 2447.0,
+  "floor": 3,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 276,
+  "sourceName": "본관 3층 엘베",
+  "x": 1114.0,
+  "y": 2429.0,
+  "floor": 3,
+  "buildingId": 8,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 277,
+  "sourceName": "본관 3층 엘베 앞",
+  "x": 1126.0,
+  "y": 2432.0,
+  "floor": 3,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 278,
+  "sourceName": "본관 3층 오른쪽 갈림길",
+  "x": 1222.0,
+  "y": 2459.0,
+  "floor": 3,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 279,
+  "sourceName": "본관 3층 오른쪽 계단",
+  "x": 1056.0,
+  "y": 2604.0,
+  "floor": 3,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 280,
+  "sourceName": "본관 3층 오른쪽 계단 앞",
+  "x": 1059.0,
+  "y": 2598.0,
+  "floor": 3,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 281,
+  "sourceName": "본관 3층 오른쪽 입구",
+  "x": 1255.0,
+  "y": 2463.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 282,
+  "sourceName": "본관 3층 오른쪽 입구 안",
+  "x": 1233.0,
+  "y": 2454.0,
+  "floor": 3,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 283,
+  "sourceName": "본관 3층 오른쪽 입구 앞",
+  "x": 1300.0,
+  "y": 2478.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 284,
+  "sourceName": "본관 3층 왼쪽 갈림길",
+  "x": 1164.0,
+  "y": 2613.0,
+  "floor": 3,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 285,
+  "sourceName": "본관 3층 왼쪽 계단",
+  "x": 1128.0,
+  "y": 2422.0,
+  "floor": 3,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 286,
+  "sourceName": "본관 3층 왼쪽 안",
+  "x": 1080.0,
+  "y": 2587.0,
+  "floor": 3,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 287,
+  "sourceName": "본관 3층 왼쪽 입구",
+  "x": 1206.0,
+  "y": 2619.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 288,
+  "sourceName": "본관 3층 왼쪽 입구 안",
+  "x": 1177.0,
+  "y": 2609.0,
+  "floor": 3,
+  "buildingId": 8,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 289,
+  "sourceName": "본관 3층 왼쪽 입구 앞",
+  "x": 1250.0,
+  "y": 2635.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 290,
+  "sourceName": "사회과학관 2층",
+  "x": 2249.0,
+  "y": 2954.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 291,
+  "sourceName": "사회과학관 2층 계단",
+  "x": 2250.0,
+  "y": 3069.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 292,
+  "sourceName": "사회과학관 2층 계단 앞",
+  "x": 2242.0,
+  "y": 3065.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 293,
+  "sourceName": "사회과학관 2층 계단 옆",
+  "x": 2246.0,
+  "y": 3051.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 294,
+  "sourceName": "사회과학관 2층 엘베",
+  "x": 2272.0,
+  "y": 3030.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 295,
+  "sourceName": "사회과학관 2층 엘베 앞",
+  "x": 2264.0,
+  "y": 3056.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 296,
+  "sourceName": "사회과학관 2층 옆문",
+  "x": 2226.0,
+  "y": 3119.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 297,
+  "sourceName": "사회과학관 2층 옆문 안",
+  "x": 2238.0,
+  "y": 3082.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 298,
+  "sourceName": "사회과학관 2층 쪽문",
+  "x": 2297.0,
+  "y": 2802.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 299,
+  "sourceName": "사회과학관 2층 쪽문 계단",
+  "x": 2309.0,
+  "y": 2808.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 300,
+  "sourceName": "사회과학관 2층 쪽문 계단 앞",
+  "x": 2298.0,
+  "y": 2812.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 301,
+  "sourceName": "사회과학관 2층 쪽문 방향",
+  "x": 2222.0,
+  "y": 3042.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 302,
+  "sourceName": "사회과학관 2층 쪽문 앞 계단 아래",
+  "x": 2274.0,
+  "y": 2790.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 303,
+  "sourceName": "사회과학관 2층 쪽문 앞 계단 위",
+  "x": 2258.0,
+  "y": 2785.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 304,
+  "sourceName": "사회과학관 3층",
+  "x": 2249.0,
+  "y": 2954.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 305,
+  "sourceName": "사회과학관 3층 계단",
+  "x": 2250.0,
+  "y": 3069.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 306,
+  "sourceName": "사회과학관 3층 계단 앞",
+  "x": 2242.0,
+  "y": 3065.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 307,
+  "sourceName": "사회과학관 3층 계단 오른쪽",
+  "x": 2238.0,
+  "y": 3082.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 308,
+  "sourceName": "사회과학관 3층 계단 왼쪽",
+  "x": 2246.0,
+  "y": 3051.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 309,
+  "sourceName": "사회과학관 3층 엘베",
+  "x": 2272.0,
+  "y": 3030.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 310,
+  "sourceName": "사회과학관 3층 엘베 앞",
+  "x": 2264.0,
+  "y": 3056.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 311,
+  "sourceName": "사회과학관 3층 입구",
+  "x": 2171.0,
+  "y": 3070.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 312,
+  "sourceName": "사회과학관 3층 입구 안",
+  "x": 2204.0,
+  "y": 3081.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 313,
+  "sourceName": "사회과학관 3층 쪽문 계단",
+  "x": 2309.0,
+  "y": 2808.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 314,
+  "sourceName": "사회과학관 3층 쪽문 계단 앞",
+  "x": 2298.0,
+  "y": 2812.0,
+  "floor": 2,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 315,
+  "sourceName": "사회과학관 3층 쪽문 방향",
+  "x": 2222.0,
+  "y": 3042.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 316,
+  "sourceName": "사회과학관 B1 엘베",
+  "x": 2272.0,
+  "y": 3030.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 317,
+  "sourceName": "사회과학관 B1 엘베 앞",
+  "x": 2285.0,
+  "y": 2993.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 318,
+  "sourceName": "사회과학관 B1 엘베 입구",
+  "x": 2315.0,
+  "y": 3000.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 319,
+  "sourceName": "사회과학관 경영관 3층 경계",
+  "x": 2338.0,
+  "y": 3115.0,
+  "floor": 3,
+  "buildingId": 9,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 320,
+  "sourceName": "사회과학관_경영관",
+  "x": 2295.0,
+  "y": 3098.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 321,
+  "sourceName": "상록원",
+  "x": 1182.0,
+  "y": 3225.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 322,
+  "sourceName": "상록원 가는 길",
+  "x": 1101.0,
+  "y": 2981.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 323,
+  "sourceName": "상록원 가는 길 명진관 계단 아래",
+  "x": 1163.0,
+  "y": 2947.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 324,
+  "sourceName": "상록원 가는 길 명진관 계단 앞",
+  "x": 1113.0,
+  "y": 2930.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 325,
+  "sourceName": "상록원 가는 길 명진관 계단 위",
+  "x": 1173.0,
+  "y": 2950.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 326,
+  "sourceName": "상록원 가는 길 명진관 계단 중간",
+  "x": 1162.0,
+  "y": 2960.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 327,
+  "sourceName": "상록원 가는 길2",
+  "x": 1102.0,
+  "y": 3089.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 328,
+  "sourceName": "상록원 가는 길3",
+  "x": 1090.0,
+  "y": 3129.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 329,
+  "sourceName": "상록원 가는 길4",
+  "x": 1079.0,
+  "y": 3163.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 330,
+  "sourceName": "상록원 과학관 갈림길",
+  "x": 1117.0,
+  "y": 3139.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 331,
+  "sourceName": "상록원 앞",
+  "x": 1133.0,
+  "y": 3144.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 332,
+  "sourceName": "상록원 옆 갈림길",
+  "x": 1198.0,
+  "y": 3135.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 333,
+  "sourceName": "상록원 옆 길",
+  "x": 1238.0,
+  "y": 3124.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 334,
+  "sourceName": "상록원 옆입구",
+  "x": 1110.0,
+  "y": 3172.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 335,
+  "sourceName": "상록원 정문",
+  "x": 1127.0,
+  "y": 3151.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 336,
+  "sourceName": "상록원 후문",
+  "x": 1252.0,
+  "y": 3192.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 337,
+  "sourceName": "상록원 후문 앞",
+  "x": 1263.0,
+  "y": 3176.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 338,
+  "sourceName": "신공 1층 9층 엘베",
+  "x": 847.0,
+  "y": 2645.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 339,
+  "sourceName": "신공 1층 9층 엘베 앞",
+  "x": 851.0,
+  "y": 2634.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 340,
+  "sourceName": "신공 1층 계단",
+  "x": 859.0,
+  "y": 2674.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 341,
+  "sourceName": "신공 1층 계단 앞",
+  "x": 864.0,
+  "y": 2675.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 342,
+  "sourceName": "신공 1층 뒤편1",
+  "x": 783.0,
+  "y": 2779.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 343,
+  "sourceName": "신공 1층 뒤편2",
+  "x": 816.0,
+  "y": 2792.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 344,
+  "sourceName": "신공 1층 뒤편3",
+  "x": 827.0,
+  "y": 2786.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 345,
+  "sourceName": "신공 1층 뒷계단",
+  "x": 695.0,
+  "y": 2761.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 346,
+  "sourceName": "신공 1층 뒷계단 앞1",
+  "x": 697.0,
+  "y": 2777.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 347,
+  "sourceName": "신공 1층 뒷계단 앞2",
+  "x": 707.0,
+  "y": 2780.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 348,
+  "sourceName": "신공 1층 뒷계단 앞3",
+  "x": 712.0,
+  "y": 2765.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 349,
+  "sourceName": "신공 1층 뒷계단 앞4",
+  "x": 716.0,
+  "y": 2754.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 350,
+  "sourceName": "신공 1층 뒷엘베",
+  "x": 703.0,
+  "y": 2757.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 351,
+  "sourceName": "신공 1층 뒷엘베 앞",
+  "x": 701.0,
+  "y": 2762.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 352,
+  "sourceName": "신공 1층 옆문",
+  "x": 688.0,
+  "y": 2722.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 353,
+  "sourceName": "신공 1층 옆문 앞",
+  "x": 673.0,
+  "y": 2768.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 354,
+  "sourceName": "신공 1층 오른쪽 위",
+  "x": 875.0,
+  "y": 2643.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 355,
+  "sourceName": "신공 1층 왼쪽 위",
+  "x": 840.0,
+  "y": 2630.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 356,
+  "sourceName": "신공 1층 입구",
+  "x": 797.0,
+  "y": 2681.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 357,
+  "sourceName": "신공 1층 입구 갈림길",
+  "x": 710.0,
+  "y": 2653.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 358,
+  "sourceName": "신공 1층 입구 앞",
+  "x": 817.0,
+  "y": 2687.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 359,
+  "sourceName": "신공 1층 전층 엘베",
+  "x": 861.0,
+  "y": 2650.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 360,
+  "sourceName": "신공 1층 전층 엘베 앞",
+  "x": 865.0,
+  "y": 2639.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 361,
+  "sourceName": "신공 1층 화장실 오른쪽",
+  "x": 843.0,
+  "y": 2738.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 362,
+  "sourceName": "신공 1층 화장실 왼쪽",
+  "x": 804.0,
+  "y": 2724.0,
+  "floor": 1,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 363,
+  "sourceName": "신공 3층 계단",
+  "x": 859.0,
+  "y": 2674.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 364,
+  "sourceName": "신공 3층 계단 앞",
+  "x": 864.0,
+  "y": 2675.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 365,
+  "sourceName": "신공 3층 뒤편1",
+  "x": 784.0,
+  "y": 2779.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 366,
+  "sourceName": "신공 3층 뒤편2",
+  "x": 815.0,
+  "y": 2791.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 367,
+  "sourceName": "신공 3층 뒤편3",
+  "x": 825.0,
+  "y": 2786.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 368,
+  "sourceName": "신공 3층 뒤편4",
+  "x": 773.0,
+  "y": 2804.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 369,
+  "sourceName": "신공 3층 뒤편5",
+  "x": 673.0,
+  "y": 2766.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 370,
+  "sourceName": "신공 3층 뒷계단",
+  "x": 695.0,
+  "y": 2761.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 371,
+  "sourceName": "신공 3층 뒷계단 앞",
+  "x": 700.0,
+  "y": 2763.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 372,
+  "sourceName": "신공 3층 뒷엘베",
+  "x": 703.0,
+  "y": 2757.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 373,
+  "sourceName": "신공 3층 뒷엘베 앞",
+  "x": 696.0,
+  "y": 2775.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 374,
+  "sourceName": "신공 3층 오른쪽 위",
+  "x": 876.0,
+  "y": 2641.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 375,
+  "sourceName": "신공 3층 왼쪽 위",
+  "x": 839.0,
+  "y": 2627.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 376,
+  "sourceName": "신공 3층 입구",
+  "x": 739.0,
+  "y": 2583.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 377,
+  "sourceName": "신공 3층 입구 계단",
+  "x": 754.0,
+  "y": 2581.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 378,
+  "sourceName": "신공 3층 입구 계단 문",
+  "x": 748.0,
+  "y": 2578.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 379,
+  "sourceName": "신공 3층 입구 계단 안쪽 문",
+  "x": 753.0,
+  "y": 2586.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 380,
+  "sourceName": "신공 3층 입구 계단 안쪽 문 앞",
+  "x": 753.0,
+  "y": 2586.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 381,
+  "sourceName": "신공 3층 입구 계단 앞",
+  "x": 742.0,
+  "y": 2576.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 382,
+  "sourceName": "신공 3층 입구 안",
+  "x": 737.0,
+  "y": 2588.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 383,
+  "sourceName": "신공 3층 입구 앞",
+  "x": 753.0,
+  "y": 2552.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 384,
+  "sourceName": "신공 3층 전층 엘베",
+  "x": 851.0,
+  "y": 2631.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 385,
+  "sourceName": "신공 3층 전층 엘베 앞",
+  "x": 864.0,
+  "y": 2636.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 386,
+  "sourceName": "신공 3층 화장실 오른쪽",
+  "x": 842.0,
+  "y": 2738.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 387,
+  "sourceName": "신공 3층 화장실 왼쪽",
+  "x": 804.0,
+  "y": 2724.0,
+  "floor": 3,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 388,
+  "sourceName": "신공 4층 계단",
+  "x": 859.0,
+  "y": 2674.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 389,
+  "sourceName": "신공 4층 계단 앞",
+  "x": 864.0,
+  "y": 2675.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 390,
+  "sourceName": "신공 4층 뒤편 계단 엘베 앞",
+  "x": 697.0,
+  "y": 2775.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 391,
+  "sourceName": "신공 4층 뒤편 세갈래길",
+  "x": 715.0,
+  "y": 2783.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 392,
+  "sourceName": "신공 4층 뒤편1",
+  "x": 826.0,
+  "y": 2785.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 393,
+  "sourceName": "신공 4층 뒤편2",
+  "x": 790.0,
+  "y": 2809.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 394,
+  "sourceName": "신공 4층 뒤편3",
+  "x": 775.0,
+  "y": 2804.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 395,
+  "sourceName": "신공 4층 뒤편4",
+  "x": 787.0,
+  "y": 2767.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 396,
+  "sourceName": "신공 4층 뒷계단",
+  "x": 695.0,
+  "y": 2761.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 397,
+  "sourceName": "신공 4층 뒷엘베",
+  "x": 703.0,
+  "y": 2757.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 398,
+  "sourceName": "신공 4층 뒷엘베 앞",
+  "x": 701.0,
+  "y": 2762.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 399,
+  "sourceName": "신공 4층 야외길1",
+  "x": 745.0,
+  "y": 2606.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 400,
+  "sourceName": "신공 4층 야외길2",
+  "x": 734.0,
+  "y": 2729.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 401,
+  "sourceName": "신공 4층 오른쪽 위",
+  "x": 873.0,
+  "y": 2649.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 402,
+  "sourceName": "신공 4층 왼쪽 위",
+  "x": 837.0,
+  "y": 2636.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 403,
+  "sourceName": "신공 4층 입구 계단",
+  "x": 754.0,
+  "y": 2581.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 404,
+  "sourceName": "신공 4층 입구 계단 문",
+  "x": 753.0,
+  "y": 2586.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 405,
+  "sourceName": "신공 4층 입구 계단 문 앞",
+  "x": 745.0,
+  "y": 2606.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 406,
+  "sourceName": "신공 4층 전층 엘베",
+  "x": 861.0,
+  "y": 2650.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 407,
+  "sourceName": "신공 4층 전층 엘베 앞",
+  "x": 862.0,
+  "y": 2645.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 408,
+  "sourceName": "신공 4층 화장실 오른쪽",
+  "x": 842.0,
+  "y": 2738.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 409,
+  "sourceName": "신공 4층 화장실 왼쪽",
+  "x": 805.0,
+  "y": 2723.0,
+  "floor": 4,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 410,
+  "sourceName": "신공 7층 경계",
+  "x": 896.0,
+  "y": 2593.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 411,
+  "sourceName": "신공 7층 경계 안",
+  "x": 888.0,
+  "y": 2615.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 412,
+  "sourceName": "신공 7층 계단",
+  "x": 859.0,
+  "y": 2674.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 413,
+  "sourceName": "신공 7층 계단 앞",
+  "x": 864.0,
+  "y": 2675.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 414,
+  "sourceName": "신공 7층 뒤편1",
+  "x": 826.0,
+  "y": 2785.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 415,
+  "sourceName": "신공 7층 뒤편2",
+  "x": 790.0,
+  "y": 2809.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 416,
+  "sourceName": "신공 7층 뒤편3",
+  "x": 775.0,
+  "y": 2804.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 417,
+  "sourceName": "신공 7층 뒤편4",
+  "x": 787.0,
+  "y": 2767.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 418,
+  "sourceName": "신공 7층 뒤편5",
+  "x": 721.0,
+  "y": 2744.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 419,
+  "sourceName": "신공 7층 뒤편6",
+  "x": 712.0,
+  "y": 2766.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 420,
+  "sourceName": "신공 7층 뒤편7",
+  "x": 709.0,
+  "y": 2779.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 421,
+  "sourceName": "신공 7층 뒤편8",
+  "x": 697.0,
+  "y": 2775.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 422,
+  "sourceName": "신공 7층 뒷계단",
+  "x": 695.0,
+  "y": 2761.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 423,
+  "sourceName": "신공 7층 뒷엘베",
+  "x": 703.0,
+  "y": 2757.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 424,
+  "sourceName": "신공 7층 뒷엘베 앞",
+  "x": 701.0,
+  "y": 2762.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 425,
+  "sourceName": "신공 7층 방향 갈림길",
+  "x": 898.0,
+  "y": 2584.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 426,
+  "sourceName": "신공 7층 오른쪽 위",
+  "x": 873.0,
+  "y": 2649.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 427,
+  "sourceName": "신공 7층 왼쪽 위",
+  "x": 837.0,
+  "y": 2636.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 428,
+  "sourceName": "신공 7층 입구",
+  "x": 871.0,
+  "y": 2620.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 429,
+  "sourceName": "신공 7층 입구 계단",
+  "x": 754.0,
+  "y": 2581.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 430,
+  "sourceName": "신공 7층 입구 계단 가는길1",
+  "x": 783.0,
+  "y": 2580.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 431,
+  "sourceName": "신공 7층 입구 계단 가는길2",
+  "x": 772.0,
+  "y": 2606.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 432,
+  "sourceName": "신공 7층 입구 계단 문",
+  "x": 753.0,
+  "y": 2586.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 433,
+  "sourceName": "신공 7층 입구 계단 앞",
+  "x": 749.0,
+  "y": 2598.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 434,
+  "sourceName": "신공 7층 입구 앞",
+  "x": 873.0,
+  "y": 2611.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 435,
+  "sourceName": "신공 7층 전층 엘베",
+  "x": 861.0,
+  "y": 2650.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 436,
+  "sourceName": "신공 7층 전층 엘베 앞",
+  "x": 862.0,
+  "y": 2645.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 437,
+  "sourceName": "신공 7층 화장실 오른쪽",
+  "x": 842.0,
+  "y": 2738.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 438,
+  "sourceName": "신공 7층 화장실 왼쪽",
+  "x": 805.0,
+  "y": 2723.0,
+  "floor": 7,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 439,
+  "sourceName": "신공 9층 9층 엘베",
+  "x": 847.0,
+  "y": 2645.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 440,
+  "sourceName": "신공 9층 9층 엘베 앞",
+  "x": 849.0,
+  "y": 2641.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 441,
+  "sourceName": "신공 9층 계단",
+  "x": 859.0,
+  "y": 2674.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 442,
+  "sourceName": "신공 9층 계단 앞",
+  "x": 864.0,
+  "y": 2675.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 443,
+  "sourceName": "신공 9층 뒤편1",
+  "x": 826.0,
+  "y": 2785.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 444,
+  "sourceName": "신공 9층 뒤편2",
+  "x": 790.0,
+  "y": 2809.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 445,
+  "sourceName": "신공 9층 뒤편3",
+  "x": 775.0,
+  "y": 2804.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 446,
+  "sourceName": "신공 9층 뒤편4",
+  "x": 787.0,
+  "y": 2767.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 447,
+  "sourceName": "신공 9층 뒤편5",
+  "x": 721.0,
+  "y": 2744.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 448,
+  "sourceName": "신공 9층 뒤편6",
+  "x": 712.0,
+  "y": 2766.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 449,
+  "sourceName": "신공 9층 뒤편7",
+  "x": 709.0,
+  "y": 2779.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 450,
+  "sourceName": "신공 9층 뒤편8",
+  "x": 697.0,
+  "y": 2775.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 451,
+  "sourceName": "신공 9층 뒷계단",
+  "x": 695.0,
+  "y": 2761.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 452,
+  "sourceName": "신공 9층 뒷엘베",
+  "x": 703.0,
+  "y": 2757.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 453,
+  "sourceName": "신공 9층 뒷엘베 앞",
+  "x": 701.0,
+  "y": 2762.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 454,
+  "sourceName": "신공 9층 오른쪽 위",
+  "x": 873.0,
+  "y": 2649.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 455,
+  "sourceName": "신공 9층 왼쪽 위",
+  "x": 837.0,
+  "y": 2636.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 456,
+  "sourceName": "신공 9층 입구",
+  "x": 905.0,
+  "y": 2621.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 457,
+  "sourceName": "신공 9층 입구 안",
+  "x": 885.0,
+  "y": 2617.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 458,
+  "sourceName": "신공 9층 입구 앞",
+  "x": 933.0,
+  "y": 2645.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 459,
+  "sourceName": "신공 9층 전층 엘베",
+  "x": 861.0,
+  "y": 2650.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 460,
+  "sourceName": "신공 9층 전층 엘베 앞",
+  "x": 863.0,
+  "y": 2645.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 461,
+  "sourceName": "신공 9층 화장실 오른쪽",
+  "x": 842.0,
+  "y": 2738.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 462,
+  "sourceName": "신공 9층 화장실 왼쪽",
+  "x": 805.0,
+  "y": 2723.0,
+  "floor": 9,
+  "buildingId": 11,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 463,
+  "sourceName": "신공 오르막",
+  "x": 636.0,
+  "y": 2538.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 464,
+  "sourceName": "신공 중도 갈림길",
+  "x": 982.0,
+  "y": 2661.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 465,
+  "sourceName": "신공 중도 갈림길2",
+  "x": 1067.0,
+  "y": 2687.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 466,
+  "sourceName": "신공학관",
+  "x": 714.0,
+  "y": 2657.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 467,
+  "sourceName": "신공학관 1층",
+  "x": 714.0,
+  "y": 2657.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 468,
+  "sourceName": "신공학관 3층",
+  "x": 714.0,
+  "y": 2657.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 469,
+  "sourceName": "신공학관 4층",
+  "x": 714.0,
+  "y": 2657.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 470,
+  "sourceName": "신공학관 7층",
+  "x": 714.0,
+  "y": 2657.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 471,
+  "sourceName": "신공학관 9층",
+  "x": 714.0,
+  "y": 2657.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 472,
+  "sourceName": "예술극장 입구",
+  "x": 2498.0,
+  "y": 2607.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 473,
+  "sourceName": "원흥관",
+  "x": 953.0,
+  "y": 2405.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 474,
+  "sourceName": "원흥관 1층",
+  "x": 953.0,
+  "y": 2405.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 475,
+  "sourceName": "원흥관 1층 정문",
+  "x": 912.0,
+  "y": 2281.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 476,
+  "sourceName": "원흥관 1층 정문 안",
+  "x": 886.0,
+  "y": 2312.0,
+  "floor": 1,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 477,
+  "sourceName": "원흥관 1층 정문 앞",
+  "x": 926.0,
+  "y": 2259.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 478,
+  "sourceName": "원흥관 1층 중앙",
+  "x": 950.0,
+  "y": 2361.0,
+  "floor": 1,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 479,
+  "sourceName": "원흥관 1층 중앙 계단",
+  "x": 947.0,
+  "y": 2345.0,
+  "floor": 1,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 480,
+  "sourceName": "원흥관 1층 중앙 계단 앞",
+  "x": 958.0,
+  "y": 2353.0,
+  "floor": 1,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 481,
+  "sourceName": "원흥관 1층 쪽문",
+  "x": 784.0,
+  "y": 2193.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 482,
+  "sourceName": "원흥관 1층 쪽문 계단",
+  "x": 759.0,
+  "y": 2226.0,
+  "floor": 1,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 483,
+  "sourceName": "원흥관 1층 쪽문 안",
+  "x": 766.0,
+  "y": 2218.0,
+  "floor": 1,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 484,
+  "sourceName": "원흥관 1층 후문",
+  "x": 852.0,
+  "y": 2356.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 485,
+  "sourceName": "원흥관 1층 후문 계단",
+  "x": 856.0,
+  "y": 2341.0,
+  "floor": 1,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 486,
+  "sourceName": "원흥관 1층 후문 계단 앞",
+  "x": 861.0,
+  "y": 2337.0,
+  "floor": 1,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 487,
+  "sourceName": "원흥관 1층 후문 안",
+  "x": 865.0,
+  "y": 2341.0,
+  "floor": 1,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 488,
+  "sourceName": "원흥관 2층",
+  "x": 953.0,
+  "y": 2405.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 489,
+  "sourceName": "원흥관 2층 엘베",
+  "x": 971.0,
+  "y": 2357.0,
+  "floor": 2,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 490,
+  "sourceName": "원흥관 2층 왼쪽",
+  "x": 886.0,
+  "y": 2312.0,
+  "floor": 2,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 491,
+  "sourceName": "원흥관 2층 중앙",
+  "x": 960.0,
+  "y": 2371.0,
+  "floor": 2,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 492,
+  "sourceName": "원흥관 2층 중앙 계단",
+  "x": 947.0,
+  "y": 2345.0,
+  "floor": 2,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 493,
+  "sourceName": "원흥관 2층 중앙 계단 앞",
+  "x": 968.0,
+  "y": 2362.0,
+  "floor": 2,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 494,
+  "sourceName": "원흥관 2층 쪽문 계단",
+  "x": 759.0,
+  "y": 2226.0,
+  "floor": 2,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 495,
+  "sourceName": "원흥관 2층 쪽문 계단 앞",
+  "x": 766.0,
+  "y": 2218.0,
+  "floor": 2,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 496,
+  "sourceName": "원흥관 2층 후문 계단",
+  "x": 861.0,
+  "y": 2342.0,
+  "floor": 2,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 497,
+  "sourceName": "원흥관 3층",
+  "x": 953.0,
+  "y": 2405.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 498,
+  "sourceName": "원흥관 3층 야외 계단",
+  "x": 950.0,
+  "y": 2581.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 499,
+  "sourceName": "원흥관 3층 야외 계단 앞",
+  "x": 962.0,
+  "y": 2588.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 500,
+  "sourceName": "원흥관 3층 야외 계단문",
+  "x": 940.0,
+  "y": 2580.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 501,
+  "sourceName": "원흥관 3층 야외 계단문 안",
+  "x": 930.0,
+  "y": 2577.0,
+  "floor": 3,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 502,
+  "sourceName": "원흥관 3층 엘베",
+  "x": 971.0,
+  "y": 2357.0,
+  "floor": 3,
+  "buildingId": 12,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 503,
+  "sourceName": "원흥관 3층 오른쪽 계단",
+  "x": 957.0,
+  "y": 2421.0,
+  "floor": 3,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 504,
+  "sourceName": "원흥관 3층 오른쪽 계단 앞",
+  "x": 986.0,
+  "y": 2397.0,
+  "floor": 3,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 505,
+  "sourceName": "원흥관 3층 왼쪽",
+  "x": 886.0,
+  "y": 2312.0,
+  "floor": 3,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 506,
+  "sourceName": "원흥관 3층 중앙",
+  "x": 960.0,
+  "y": 2371.0,
+  "floor": 3,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 507,
+  "sourceName": "원흥관 3층 중앙 계단",
+  "x": 947.0,
+  "y": 2345.0,
+  "floor": 3,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 508,
+  "sourceName": "원흥관 3층 중앙 계단 앞",
+  "x": 968.0,
+  "y": 2362.0,
+  "floor": 3,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 509,
+  "sourceName": "원흥관 3층 쪽문 계단",
+  "x": 759.0,
+  "y": 2226.0,
+  "floor": 3,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 510,
+  "sourceName": "원흥관 3층 쪽문 계단 앞",
+  "x": 766.0,
+  "y": 2218.0,
+  "floor": 3,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 511,
+  "sourceName": "원흥관 3층 후문",
+  "x": 956.0,
+  "y": 2452.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 512,
+  "sourceName": "원흥관 3층 후문 계단",
+  "x": 861.0,
+  "y": 2342.0,
+  "floor": 3,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 513,
+  "sourceName": "원흥관 3층 후문 안",
+  "x": 968.0,
+  "y": 2455.0,
+  "floor": 3,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 514,
+  "sourceName": "원흥관 4층",
+  "x": 953.0,
+  "y": 2405.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 515,
+  "sourceName": "원흥관 4층 야외 계단",
+  "x": 950.0,
+  "y": 2581.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 516,
+  "sourceName": "원흥관 4층 야외 계단문",
+  "x": 940.0,
+  "y": 2580.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 517,
+  "sourceName": "원흥관 4층 야외 계단문 안",
+  "x": 930.0,
+  "y": 2577.0,
+  "floor": 4,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 518,
+  "sourceName": "원흥관 4층 엘베",
+  "x": 971.0,
+  "y": 2357.0,
+  "floor": 4,
+  "buildingId": 12,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 519,
+  "sourceName": "원흥관 4층 오른쪽 계단",
+  "x": 957.0,
+  "y": 2433.0,
+  "floor": 4,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 520,
+  "sourceName": "원흥관 4층 왼쪽",
+  "x": 886.0,
+  "y": 2312.0,
+  "floor": 4,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 521,
+  "sourceName": "원흥관 4층 입구",
+  "x": 996.0,
+  "y": 2392.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 522,
+  "sourceName": "원흥관 4층 입구 안",
+  "x": 974.0,
+  "y": 2403.0,
+  "floor": 4,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 523,
+  "sourceName": "원흥관 4층 입구 옆",
+  "x": 970.0,
+  "y": 2444.0,
+  "floor": 4,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 524,
+  "sourceName": "원흥관 4층 중앙",
+  "x": 960.0,
+  "y": 2371.0,
+  "floor": 4,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 525,
+  "sourceName": "원흥관 4층 중앙 계단",
+  "x": 947.0,
+  "y": 2345.0,
+  "floor": 4,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 526,
+  "sourceName": "원흥관 4층 중앙 계단 앞",
+  "x": 968.0,
+  "y": 2362.0,
+  "floor": 4,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 527,
+  "sourceName": "원흥관 4층 쪽문 계단",
+  "x": 759.0,
+  "y": 2226.0,
+  "floor": 4,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 528,
+  "sourceName": "원흥관 4층 쪽문 계단 앞",
+  "x": 766.0,
+  "y": 2218.0,
+  "floor": 4,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 529,
+  "sourceName": "원흥관 4층 후문 계단",
+  "x": 861.0,
+  "y": 2342.0,
+  "floor": 4,
+  "buildingId": 12,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 530,
+  "sourceName": "원흥관 5층 야외 계단",
+  "x": 950.0,
+  "y": 2581.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 531,
+  "sourceName": "원흥관 신공학관 계단 통로",
+  "x": 949.0,
+  "y": 2590.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 532,
+  "sourceName": "원흥관 신공학관1",
+  "x": 835.0,
+  "y": 2371.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 533,
+  "sourceName": "원흥관 신공학관2",
+  "x": 908.0,
+  "y": 2436.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 534,
+  "sourceName": "원흥관 앞 계단 아래",
+  "x": 880.0,
+  "y": 2180.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 535,
+  "sourceName": "원흥관 앞 계단 위",
+  "x": 1037.0,
+  "y": 2319.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 536,
+  "sourceName": "원흥관 앞 계단 중간1",
+  "x": 943.0,
+  "y": 2161.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 537,
+  "sourceName": "원흥관 앞 계단 중간2",
+  "x": 1017.0,
+  "y": 2317.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 538,
+  "sourceName": "원흥별관 정문",
+  "x": 843.0,
+  "y": 2517.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 539,
+  "sourceName": "원흥별관 정문 앞",
+  "x": 867.0,
+  "y": 2555.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 540,
+  "sourceName": "원흥별관 쪽문",
+  "x": 830.0,
+  "y": 2543.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 541,
+  "sourceName": "원흥별관 쪽문 앞",
+  "x": 825.0,
+  "y": 2558.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 542,
+  "sourceName": "원흥별관 후문",
+  "x": 873.0,
+  "y": 2442.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 543,
+  "sourceName": "이해랑 학술관 가는길1",
+  "x": 2456.0,
+  "y": 2757.0,
+  "floor": -1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 544,
+  "sourceName": "이해랑 학술관 가는길2",
+  "x": 2506.0,
+  "y": 2772.0,
+  "floor": -1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 545,
+  "sourceName": "이해랑 학술관 가는길3",
+  "x": 2540.0,
+  "y": 2660.0,
+  "floor": -1,
+  "buildingId": 6,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 546,
+  "sourceName": "자취촌 학교 입구",
+  "x": 691.0,
+  "y": 2095.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 547,
+  "sourceName": "정P 2층 엘베",
+  "x": 810.0,
+  "y": 2162.0,
+  "floor": 2,
+  "buildingId": 14,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 548,
+  "sourceName": "정P 2층 엘베 갈림길",
+  "x": 830.0,
+  "y": 2156.0,
+  "floor": 2,
+  "buildingId": 14,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 549,
+  "sourceName": "정P 2층 엘베 앞",
+  "x": 809.0,
+  "y": 2156.0,
+  "floor": 2,
+  "buildingId": 14,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 550,
+  "sourceName": "정P 2층 입구",
+  "x": 814.0,
+  "y": 1978.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 551,
+  "sourceName": "정P 2층 정문 갈림길",
+  "x": 816.0,
+  "y": 2006.0,
+  "floor": 2,
+  "buildingId": 14,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 552,
+  "sourceName": "정P 3층 계단 앞",
+  "x": 821.0,
+  "y": 2155.0,
+  "floor": 3,
+  "buildingId": 14,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 553,
+  "sourceName": "정P 3층 엘베",
+  "x": 810.0,
+  "y": 2162.0,
+  "floor": 3,
+  "buildingId": 14,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 554,
+  "sourceName": "정P 3층 엘베 갈림길",
+  "x": 830.0,
+  "y": 2156.0,
+  "floor": 3,
+  "buildingId": 14,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 555,
+  "sourceName": "정P 3층 엘베 앞",
+  "x": 809.0,
+  "y": 2156.0,
+  "floor": 3,
+  "buildingId": 14,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 556,
+  "sourceName": "정P 3층 입구",
+  "x": 842.0,
+  "y": 1974.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 557,
+  "sourceName": "정P 3층 입구 앞",
+  "x": 841.0,
+  "y": 1942.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 558,
+  "sourceName": "정P 3층 정문 갈림길",
+  "x": 816.0,
+  "y": 2006.0,
+  "floor": 3,
+  "buildingId": 14,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 559,
+  "sourceName": "정P 3층 후문",
+  "x": 833.0,
+  "y": 2174.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 560,
+  "sourceName": "정P 3층 후문 앞",
+  "x": 832.0,
+  "y": 2188.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 561,
+  "sourceName": "정P 내 2층 계단",
+  "x": 821.0,
+  "y": 2162.0,
+  "floor": 2,
+  "buildingId": 14,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 562,
+  "sourceName": "정P 내 2층 계단 앞",
+  "x": 821.0,
+  "y": 2155.0,
+  "floor": 2,
+  "buildingId": 14,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 563,
+  "sourceName": "정P 내 3층 계단",
+  "x": 821.0,
+  "y": 2162.0,
+  "floor": 3,
+  "buildingId": 14,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 564,
+  "sourceName": "정P 뒷길 계단 아래",
+  "x": 780.0,
+  "y": 2083.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 565,
+  "sourceName": "정P 뒷길 계단 위",
+  "x": 785.0,
+  "y": 2111.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 566,
+  "sourceName": "정P 뒷길1",
+  "x": 794.0,
+  "y": 2188.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 567,
+  "sourceName": "정P 뒷길2",
+  "x": 774.0,
+  "y": 2011.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 568,
+  "sourceName": "정P 뒷길3",
+  "x": 774.0,
+  "y": 1974.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 569,
+  "sourceName": "정P 뒷길4",
+  "x": 793.0,
+  "y": 1963.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 570,
+  "sourceName": "정P 밖 2층 계단",
+  "x": 812.0,
+  "y": 1946.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 571,
+  "sourceName": "정P 밖 3층 계단",
+  "x": 812.0,
+  "y": 1946.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 572,
+  "sourceName": "정Q 입구",
+  "x": 776.0,
+  "y": 1942.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 573,
+  "sourceName": "정Q 입구 앞",
+  "x": 792.0,
+  "y": 1942.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 574,
+  "sourceName": "정각원",
+  "x": 1752.0,
+  "y": 3007.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 575,
+  "sourceName": "정각원 계단 아래",
+  "x": 1723.0,
+  "y": 3121.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 576,
+  "sourceName": "정각원 입구",
+  "x": 1742.0,
+  "y": 3052.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 577,
+  "sourceName": "정각원 입구 앞",
+  "x": 1737.0,
+  "y": 3072.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 578,
+  "sourceName": "정문",
+  "x": 2380.0,
+  "y": 3389.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": true
+ },
+ {
+  "id": 579,
+  "sourceName": "정문 앞",
+  "x": 2380.0,
+  "y": 3389.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 580,
+  "sourceName": "정문 혜화관1",
+  "x": 1711.0,
+  "y": 3195.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 581,
+  "sourceName": "정문 혜화관2",
+  "x": 1750.0,
+  "y": 3159.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 582,
+  "sourceName": "정문 혜화관3",
+  "x": 1815.0,
+  "y": 3143.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 583,
+  "sourceName": "정문 혜화관4",
+  "x": 1882.0,
+  "y": 3160.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 584,
+  "sourceName": "정문 혜화관5",
+  "x": 2047.0,
+  "y": 3206.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 585,
+  "sourceName": "정문 혜화관6",
+  "x": 2079.0,
+  "y": 3168.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 586,
+  "sourceName": "정문 혜화관7",
+  "x": 2099.0,
+  "y": 3111.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 587,
+  "sourceName": "정문 혜화관8",
+  "x": 2118.0,
+  "y": 3052.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 588,
+  "sourceName": "정문 혜화관9",
+  "x": 2144.0,
+  "y": 2968.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 589,
+  "sourceName": "정문2",
+  "x": 2087.0,
+  "y": 3357.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 590,
+  "sourceName": "정문3",
+  "x": 1694.0,
+  "y": 3241.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 591,
+  "sourceName": "정보문화관p",
+  "x": 857.0,
+  "y": 2058.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 592,
+  "sourceName": "정보문화관p 2층",
+  "x": 857.0,
+  "y": 2058.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 593,
+  "sourceName": "정보문화관p 3층",
+  "x": 857.0,
+  "y": 2058.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 594,
+  "sourceName": "정보문화관p쪽 입구",
+  "x": 691.0,
+  "y": 2095.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 595,
+  "sourceName": "정보문화관q",
+  "x": 741.0,
+  "y": 1928.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 596,
+  "sourceName": "중도 옆 계단 아래",
+  "x": 1088.0,
+  "y": 2694.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 597,
+  "sourceName": "중도 옆 계단 위",
+  "x": 1139.0,
+  "y": 2712.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 598,
+  "sourceName": "중도 옆옆 계단 아래",
+  "x": 1047.0,
+  "y": 2665.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 599,
+  "sourceName": "중도 옆옆 계단 앞",
+  "x": 1071.0,
+  "y": 2674.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 600,
+  "sourceName": "중도 옆옆 계단 위",
+  "x": 1058.0,
+  "y": 2670.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 601,
+  "sourceName": "중도 정문",
+  "x": 1116.0,
+  "y": 2752.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 602,
+  "sourceName": "중도 정문 앞",
+  "x": 1126.0,
+  "y": 2754.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 603,
+  "sourceName": "중도 후문",
+  "x": 978.0,
+  "y": 2673.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 604,
+  "sourceName": "중앙도서관",
+  "x": 1012.0,
+  "y": 2786.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 605,
+  "sourceName": "지하주차장 가는길1",
+  "x": 1046.0,
+  "y": 2308.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 606,
+  "sourceName": "지하주차장 가는길2",
+  "x": 1078.0,
+  "y": 2382.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 607,
+  "sourceName": "지하주차장 가는길3",
+  "x": 1022.0,
+  "y": 2569.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 608,
+  "sourceName": "지하주차장 앞",
+  "x": 1002.0,
+  "y": 2615.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 609,
+  "sourceName": "지하주차장 입구",
+  "x": 939.0,
+  "y": 2624.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 610,
+  "sourceName": "체육관",
+  "x": 1432.0,
+  "y": 1958.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 611,
+  "sourceName": "체육관 옆문",
+  "x": 1338.0,
+  "y": 2012.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 612,
+  "sourceName": "체육관 옆문 앞",
+  "x": 1288.0,
+  "y": 1999.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 613,
+  "sourceName": "체육관 입구",
+  "x": 1374.0,
+  "y": 1882.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 614,
+  "sourceName": "체육관 입구 앞",
+  "x": 1317.0,
+  "y": 1873.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 615,
+  "sourceName": "체육관 정문",
+  "x": 1453.0,
+  "y": 1860.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 616,
+  "sourceName": "체육관쪽 입구",
+  "x": 1459.0,
+  "y": 2166.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 617,
+  "sourceName": "체육관쪽 입구1",
+  "x": 1459.0,
+  "y": 2166.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 618,
+  "sourceName": "체육관쪽 입구2",
+  "x": 1416.0,
+  "y": 2157.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 619,
+  "sourceName": "체육관쪽 입구3",
+  "x": 1396.0,
+  "y": 2112.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 620,
+  "sourceName": "체육관쪽 입구4",
+  "x": 1321.0,
+  "y": 2097.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 621,
+  "sourceName": "체육관쪽 입구5",
+  "x": 1312.0,
+  "y": 2086.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 622,
+  "sourceName": "체육관쪽 입구6",
+  "x": 1306.0,
+  "y": 2036.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 623,
+  "sourceName": "충무로 방향 입구",
+  "x": 574.0,
+  "y": 2552.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": true
+ },
+ {
+  "id": 624,
+  "sourceName": "충무로쪽 입구",
+  "x": 574.0,
+  "y": 2552.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 625,
+  "sourceName": "팔정도 본관 계단 아래",
+  "x": 1235.0,
+  "y": 2349.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 626,
+  "sourceName": "팔정도 본관 계단 위",
+  "x": 1320.0,
+  "y": 2423.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 627,
+  "sourceName": "팔정도 본관 계단 중간",
+  "x": 1255.0,
+  "y": 2414.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 628,
+  "sourceName": "팔정도 오른쪽",
+  "x": 1562.0,
+  "y": 2713.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 629,
+  "sourceName": "팔정도 왼쪽",
+  "x": 1257.0,
+  "y": 2613.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 630,
+  "sourceName": "팔정도 우측 상단1",
+  "x": 1588.0,
+  "y": 2589.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 631,
+  "sourceName": "팔정도 우측 상단2",
+  "x": 1576.0,
+  "y": 2565.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 632,
+  "sourceName": "팔정도 위",
+  "x": 1442.0,
+  "y": 2512.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 633,
+  "sourceName": "팔정도 좌측 상단",
+  "x": 1305.0,
+  "y": 2469.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 634,
+  "sourceName": "팔정도 좌측 하단",
+  "x": 1212.0,
+  "y": 2749.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 635,
+  "sourceName": "팔정도 좌측 하단2",
+  "x": 1188.0,
+  "y": 2742.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 636,
+  "sourceName": "팔정도 좌측 하단3",
+  "x": 1169.0,
+  "y": 2744.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 637,
+  "sourceName": "팔정도 중앙",
+  "x": 1403.0,
+  "y": 2661.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 638,
+  "sourceName": "팔정도 혜화관1",
+  "x": 1605.0,
+  "y": 2547.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 639,
+  "sourceName": "팔정도 혜화관2",
+  "x": 1729.0,
+  "y": 2589.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 640,
+  "sourceName": "팔정도 혜화관3",
+  "x": 1751.0,
+  "y": 2654.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 641,
+  "sourceName": "팔정도 후문 차도1",
+  "x": 1283.0,
+  "y": 2262.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 642,
+  "sourceName": "팔정도 후문 차도2",
+  "x": 1258.0,
+  "y": 2245.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 643,
+  "sourceName": "팔정도 후문 차도3",
+  "x": 1059.0,
+  "y": 2278.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 644,
+  "sourceName": "팔정도 후문 차도4",
+  "x": 924.0,
+  "y": 2074.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 645,
+  "sourceName": "팔정도 후문 차도5",
+  "x": 888.0,
+  "y": 1928.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 646,
+  "sourceName": "팔정도 후문 차도6",
+  "x": 879.0,
+  "y": 1891.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 647,
+  "sourceName": "팔정도 후문 차도7",
+  "x": 968.0,
+  "y": 1757.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 648,
+  "sourceName": "팔정도 후문 차도8",
+  "x": 995.0,
+  "y": 1751.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 649,
+  "sourceName": "팔정도1",
+  "x": 1327.0,
+  "y": 2695.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 650,
+  "sourceName": "팔정도10",
+  "x": 1362.0,
+  "y": 2581.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 651,
+  "sourceName": "팔정도2",
+  "x": 1342.0,
+  "y": 2738.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 652,
+  "sourceName": "팔정도3",
+  "x": 1364.0,
+  "y": 2759.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 653,
+  "sourceName": "팔정도4",
+  "x": 1402.0,
+  "y": 2752.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 654,
+  "sourceName": "팔정도5",
+  "x": 1437.0,
+  "y": 2717.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 655,
+  "sourceName": "팔정도6",
+  "x": 1466.0,
+  "y": 2625.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 656,
+  "sourceName": "팔정도7",
+  "x": 1455.0,
+  "y": 2578.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 657,
+  "sourceName": "팔정도8",
+  "x": 1429.0,
+  "y": 2555.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 658,
+  "sourceName": "팔정도9",
+  "x": 1394.0,
+  "y": 2560.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 659,
+  "sourceName": "학림관",
+  "x": 1265.0,
+  "y": 1758.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 660,
+  "sourceName": "학림관 1층",
+  "x": 1265.0,
+  "y": 1758.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 661,
+  "sourceName": "학림관 1층 엘베",
+  "x": 1181.0,
+  "y": 1717.0,
+  "floor": 1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 662,
+  "sourceName": "학림관 1층 엘베 앞",
+  "x": 1179.0,
+  "y": 1724.0,
+  "floor": 1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 663,
+  "sourceName": "학림관 B1 엘베",
+  "x": 1181.0,
+  "y": 1717.0,
+  "floor": -1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 664,
+  "sourceName": "학림관 B1 엘베 앞",
+  "x": 1179.0,
+  "y": 1723.0,
+  "floor": -1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 665,
+  "sourceName": "학림관 B1 왼쪽 끝",
+  "x": 1101.0,
+  "y": 1701.0,
+  "floor": -1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 666,
+  "sourceName": "학림관 B1층",
+  "x": 1265.0,
+  "y": 1758.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 667,
+  "sourceName": "학림관 뒷길1",
+  "x": 1482.0,
+  "y": 1754.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 668,
+  "sourceName": "학림관 뒷길2",
+  "x": 1497.0,
+  "y": 1693.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 669,
+  "sourceName": "학림관 뒷길3",
+  "x": 1387.0,
+  "y": 1715.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 670,
+  "sourceName": "학림관 뒷길4",
+  "x": 1282.0,
+  "y": 1705.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 671,
+  "sourceName": "학림관 뒷길5",
+  "x": 1215.0,
+  "y": 1667.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 672,
+  "sourceName": "학림관 뒷문",
+  "x": 1276.0,
+  "y": 1724.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 673,
+  "sourceName": "학림관 오른쪽 뒷문",
+  "x": 1368.0,
+  "y": 1772.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 674,
+  "sourceName": "학림관 왼쪽 뒷문",
+  "x": 1197.0,
+  "y": 1722.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 675,
+  "sourceName": "학림관 왼쪽 뒷문 안",
+  "x": 1195.0,
+  "y": 1729.0,
+  "floor": -1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 676,
+  "sourceName": "학림관 우측 계단",
+  "x": 1449.0,
+  "y": 1813.0,
+  "floor": 1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 677,
+  "sourceName": "학림관 우측 계단 앞",
+  "x": 1451.0,
+  "y": 1807.0,
+  "floor": 1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 678,
+  "sourceName": "학림관 우측 앞문",
+  "x": 1354.0,
+  "y": 1816.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 679,
+  "sourceName": "학림관 우측 앞문 앞",
+  "x": 1365.0,
+  "y": 1780.0,
+  "floor": 1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 680,
+  "sourceName": "학림관 입구",
+  "x": 1255.0,
+  "y": 1787.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 681,
+  "sourceName": "학림관 입구 안",
+  "x": 1268.0,
+  "y": 1751.0,
+  "floor": 1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 682,
+  "sourceName": "학림관 입구 앞",
+  "x": 1244.0,
+  "y": 1819.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 683,
+  "sourceName": "학림관 좌측 앞문",
+  "x": 1166.0,
+  "y": 1758.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 684,
+  "sourceName": "학림관 좌측 앞문 앞",
+  "x": 1154.0,
+  "y": 1795.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 685,
+  "sourceName": "학림관 중앙 계단",
+  "x": 1378.0,
+  "y": 1792.0,
+  "floor": 1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 686,
+  "sourceName": "학림관 중앙 계단 앞",
+  "x": 1381.0,
+  "y": 1786.0,
+  "floor": 1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 687,
+  "sourceName": "학림관 편의점 입구",
+  "x": 1090.0,
+  "y": 1721.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 688,
+  "sourceName": "학림관 편의점 입구 안",
+  "x": 1096.0,
+  "y": 1722.0,
+  "floor": -1,
+  "buildingId": 18,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 689,
+  "sourceName": "학생회관",
+  "x": 759.0,
+  "y": 1843.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 690,
+  "sourceName": "학생회관 계단 입구",
+  "x": 832.0,
+  "y": 1817.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 691,
+  "sourceName": "학생회관 옆 계단 위",
+  "x": 861.0,
+  "y": 1833.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 692,
+  "sourceName": "학생회관 입구",
+  "x": 806.0,
+  "y": 1888.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 693,
+  "sourceName": "학생회관 입구 앞",
+  "x": 840.0,
+  "y": 1904.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 694,
+  "sourceName": "학생회관 학림관 계단 아래",
+  "x": 869.0,
+  "y": 1790.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 695,
+  "sourceName": "학생회관 학림관 계단 위",
+  "x": 951.0,
+  "y": 1783.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 696,
+  "sourceName": "학생회관 학림관 계단 중간",
+  "x": 913.0,
+  "y": 1780.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 697,
+  "sourceName": "학술관",
+  "x": 2597.0,
+  "y": 2719.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 698,
+  "sourceName": "학술관 1층",
+  "x": 2597.0,
+  "y": 2719.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 699,
+  "sourceName": "학술관 1층 계단",
+  "x": 2591.0,
+  "y": 2625.0,
+  "floor": 1,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 700,
+  "sourceName": "학술관 1층 계단 앞",
+  "x": 2591.0,
+  "y": 2670.0,
+  "floor": 1,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 701,
+  "sourceName": "학술관 1층 뒷계단",
+  "x": 2602.0,
+  "y": 2770.0,
+  "floor": 1,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 702,
+  "sourceName": "학술관 1층 뒷계단 앞",
+  "x": 2591.0,
+  "y": 2766.0,
+  "floor": 1,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 703,
+  "sourceName": "학술관 4층",
+  "x": 2597.0,
+  "y": 2719.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 704,
+  "sourceName": "학술관 4층 계단",
+  "x": 2591.0,
+  "y": 2625.0,
+  "floor": 4,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 705,
+  "sourceName": "학술관 4층 뒷계단",
+  "x": 2602.0,
+  "y": 2770.0,
+  "floor": 4,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 706,
+  "sourceName": "학술관 4층 뒷계단 앞",
+  "x": 2591.0,
+  "y": 2764.0,
+  "floor": 4,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 707,
+  "sourceName": "학술관 B1 계단",
+  "x": 2591.0,
+  "y": 2625.0,
+  "floor": -1,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 708,
+  "sourceName": "학술관 B1 계단 앞",
+  "x": 2591.0,
+  "y": 2655.0,
+  "floor": -1,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 709,
+  "sourceName": "학술관 B1 뒷계단",
+  "x": 2602.0,
+  "y": 2770.0,
+  "floor": -1,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 710,
+  "sourceName": "학술관 B1 뒷계단 앞",
+  "x": 2591.0,
+  "y": 2766.0,
+  "floor": -1,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 711,
+  "sourceName": "학술관 B1층",
+  "x": 2597.0,
+  "y": 2719.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 712,
+  "sourceName": "학술관 문화관 구름다리 입구",
+  "x": 2550.0,
+  "y": 2761.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 713,
+  "sourceName": "학술관 옆문",
+  "x": 2549.0,
+  "y": 2826.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 714,
+  "sourceName": "학술관 옆문 안",
+  "x": 2589.0,
+  "y": 2826.0,
+  "floor": 1,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 715,
+  "sourceName": "학술관 입구",
+  "x": 2569.0,
+  "y": 2659.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 716,
+  "sourceName": "학술관 입구 안",
+  "x": 2569.0,
+  "y": 2670.0,
+  "floor": 1,
+  "buildingId": 20,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 717,
+  "sourceName": "학술관 입구 앞",
+  "x": 2550.0,
+  "y": 2633.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 718,
+  "sourceName": "헐떡고개 아래",
+  "x": 1282.0,
+  "y": 2029.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 719,
+  "sourceName": "헐떡고개 위",
+  "x": 1231.0,
+  "y": 2248.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 720,
+  "sourceName": "혜화관",
+  "x": 1993.0,
+  "y": 2884.0,
+  "floor": 0,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 721,
+  "sourceName": "혜화관 1층",
+  "x": 1993.0,
+  "y": 2884.0,
+  "floor": 0,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 722,
+  "sourceName": "혜화관 1층 계단",
+  "x": 1981.0,
+  "y": 2922.0,
+  "floor": 1,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 723,
+  "sourceName": "혜화관 1층 계단 앞",
+  "x": 1994.0,
+  "y": 2927.0,
+  "floor": 1,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 724,
+  "sourceName": "혜화관 1층 엘베",
+  "x": 1952.0,
+  "y": 2955.0,
+  "floor": 1,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 725,
+  "sourceName": "혜화관 1층 엘베 앞",
+  "x": 1983.0,
+  "y": 2964.0,
+  "floor": 1,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 726,
+  "sourceName": "혜화관 3층 계단",
+  "x": 1981.0,
+  "y": 2922.0,
+  "floor": 4,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 727,
+  "sourceName": "혜화관 4층",
+  "x": 1993.0,
+  "y": 2884.0,
+  "floor": 0,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": true
+ },
+ {
+  "id": 728,
+  "sourceName": "혜화관 4층 계단",
+  "x": 1977.0,
+  "y": 2936.0,
+  "floor": 4,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 729,
+  "sourceName": "혜화관 4층 계단 앞",
+  "x": 1990.0,
+  "y": 2941.0,
+  "floor": 4,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 730,
+  "sourceName": "혜화관 4층 계단 옆",
+  "x": 1987.0,
+  "y": 2953.0,
+  "floor": 4,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 731,
+  "sourceName": "혜화관 4층 계단 중간1",
+  "x": 1954.0,
+  "y": 2928.0,
+  "floor": 4,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 732,
+  "sourceName": "혜화관 4층 계단 중간2",
+  "x": 1959.0,
+  "y": 2914.0,
+  "floor": 4,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 733,
+  "sourceName": "혜화관 4층 엘베",
+  "x": 1952.0,
+  "y": 2955.0,
+  "floor": 4,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 734,
+  "sourceName": "혜화관 4층 엘베 앞",
+  "x": 1960.0,
+  "y": 2957.0,
+  "floor": 4,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 735,
+  "sourceName": "혜화관 4층 입구",
+  "x": 1905.0,
+  "y": 2925.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 736,
+  "sourceName": "혜화관 4층 입구 안",
+  "x": 1963.0,
+  "y": 2946.0,
+  "floor": 4,
+  "buildingId": 21,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 737,
+  "sourceName": "혜화관 만해관 중간",
+  "x": 1805.0,
+  "y": 2902.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 738,
+  "sourceName": "혜화관 사회과학관 갈림길",
+  "x": 2212.0,
+  "y": 2764.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 739,
+  "sourceName": "혜화관 입구",
+  "x": 2030.0,
+  "y": 2932.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 740,
+  "sourceName": "혜화관 팔정도 계단 아래",
+  "x": 2017.0,
+  "y": 2694.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 741,
+  "sourceName": "혜화관 팔정도 계단 위",
+  "x": 1872.0,
+  "y": 2705.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 742,
+  "sourceName": "혜화별관 입구",
+  "x": 1850.0,
+  "y": 3108.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 743,
+  "sourceName": "혜화별관 입구 앞",
+  "x": 1838.0,
+  "y": 3149.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 744,
+  "sourceName": "혜화별관 쪽문",
+  "x": 1891.0,
+  "y": 3084.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 745,
+  "sourceName": "혜화별관 쪽문 앞",
+  "x": 1894.0,
+  "y": 3075.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 746,
+  "sourceName": "혜화별관 쪽문 옆",
+  "x": 1909.0,
+  "y": 3080.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 747,
+  "sourceName": "후문",
+  "x": 1114.0,
+  "y": 1576.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": true
+ },
+ {
+  "id": 748,
+  "sourceName": "후문 앞",
+  "x": 1114.0,
+  "y": 1576.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": true,
+  "isHub": false
+ },
+ {
+  "id": 749,
+  "sourceName": "후문 학생회관1",
+  "x": 993.0,
+  "y": 1608.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 750,
+  "sourceName": "후문 학생회관2",
+  "x": 936.0,
+  "y": 1643.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ },
+ {
+  "id": 751,
+  "sourceName": "후문 학생회관3",
+  "x": 882.0,
+  "y": 1725.0,
+  "floor": 0,
+  "buildingId": null,
+  "showDetail": false,
+  "isHub": false
+ }
+]

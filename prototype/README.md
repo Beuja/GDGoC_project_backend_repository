@@ -99,20 +99,28 @@
 
 ## 4. 사용법
 
-Python만 있으면 된다(추가 설치 없음). **backend 레포 폴더에서** 실행한다. 원본 Dubeogi와 frontend 레포가 backend 옆 폴더에 클론되어 있다고 가정한다 (`../Dubeogi`, `../frontend`).
+Python 3.10 이상만 있으면 된다(추가 설치 없음). **backend 레포 폴더에서** 실행한다. Mac은 `python` 대신 `python3`.
+
+### 서버만 켜기 (누구나)
+변환 결과(`data/`, `static/`)가 레포에 들어 있어서 **원본 Dubeogi 없이 바로 켤 수 있다.**
 
 ```bash
-# 1) 원본 → 데이터 변환 (Dubeogi 폴더 필요)
-python -I prototype/convert.py ../Dubeogi prototype/data prototype/static
-
-# 2) 프론트 타입과 대조 → prototype/check_report.md 생성
-python -I prototype/check_contract.py ../frontend/src/shared/types/api.ts prototype/data prototype/check_report.md
-
-# 3) 검증용 API 서버 실행 (http://127.0.0.1:8000/api/v1)
-python -I prototype/server.py
+git switch chore/dubeogi-prototype   # PR이 머지되기 전까지
+python -I prototype/server.py        # http://127.0.0.1:8000/api/v1
 ```
 
-**프론트를 실제 데이터로 띄워 보려면:** 3)의 서버를 켜 두고, 프론트 폴더의 `.env`에 `VITE_USE_MOCK=false`로 두고 `npm run dev`를 실행한다. (프론트 팀원이 자기 PC에서 한다)
+**프론트를 실제 데이터로 띄워 보려면:** 서버를 켜 두고, 프론트 폴더의 `.env`에 `VITE_USE_MOCK=false`로 두고 `npm run dev`를 실행한다.
+
+### 다시 변환하기 (백엔드)
+`manual/edge_fixes.json`이나 `convert.py`를 바꿨을 때만 한다. 원본 Dubeogi(https://github.com/ReturnRudi/Dubeogi)를 backend 옆 폴더에 클론해 둔다. 바꾼 `data/`, `static/`도 함께 커밋한다.
+
+```bash
+# 1) 원본 → 데이터 변환
+python -I prototype/convert.py ../Dubeogi prototype/data prototype/static
+
+# 2) 프론트 타입과 대조 → prototype/check_report.md 생성 (frontend 레포가 backend 옆 폴더에 있을 때)
+python -I prototype/check_contract.py ../frontend/src/shared/types/api.ts prototype/data prototype/check_report.md
+```
 
 ## 5. 파일
 
@@ -123,5 +131,5 @@ python -I prototype/server.py
 | `engine.py` | 장소 검색, 경로 계산(다익스트라), 응답 생성. 백엔드_설계 6장 규칙 그대로 |
 | `server.py` | 검증용 HTTP 서버 (Python 기본 기능만 사용) |
 | `check_contract.py` | 프론트 `api.ts`를 읽어 응답과 자동 대조 |
-| `check_report.md` | 대조 결과 (자동 생성) |
-| `data/`, `static/` | 변환 결과 (스크립트로 다시 만들 수 있어서 레포에는 올리지 않음) |
+| `data/`, `static/` | 변환 결과 (서버가 바로 읽는다. 다시 변환하면 함께 커밋) |
+| `check_report.md` | 대조 결과 (자동 생성, 레포에는 올리지 않음) |
